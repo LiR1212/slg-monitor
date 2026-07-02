@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-07-02T03:03:29.171Z",
+  "date": "2026-07-01",
+  "events": [
+    {
+      "id": "evt-001",
+      "gameId": "last-war",
+      "date": "2026-07-01",
+      "type": "版本",
+      "title": "英雄平衡与联盟战体验更新",
+      "summary": "新增英雄技能调整、联盟战配对优化和多语言文案修复。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "App Store",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    },
+    {
+      "id": "evt-003",
+      "gameId": "kingshot",
+      "date": "2026-07-01",
+      "type": "活动",
+      "title": "新服冲榜与资源补给活动",
+      "summary": "疑似围绕新服开服期进行素材和活动联动，资源礼包曝光增加。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "社媒",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    }
+  ],
+  "creatives": [
+    {
+      "id": "ad-001",
+      "gameId": "last-war",
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "platform": "TikTok",
+      "countries": [
+        "全球"
+      ],
+      "language": "多语言",
+      "format": "竖版视频",
+      "title": "拯救幸存者开局钩子",
+      "hook": "前三秒用选择路线和救援失败制造压力。",
+      "tags": [
+        "末日",
+        "小游戏导流",
+        "强钩子",
+        "竖屏"
+      ],
+      "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en",
+      "confidence": "中",
+      "status": "新增"
+    },
+    {
+      "id": "ad-003",
+      "gameId": "kingshot",
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "platform": "TikTok",
+      "countries": [
+        "全球"
+      ],
+      "language": "多语言",
+      "format": "竖版视频",
+      "title": "王国扩张与资源抉择",
+      "hook": "从资源短缺切入，展示新手期快速扩张。",
+      "tags": [
+        "中世纪",
+        "城建",
+        "新服",
+        "资源"
+      ],
+      "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en",
+      "confidence": "中",
+      "status": "新增"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+﻿{
+  "games": [
+    {
+      "id": "new-frost-shelter-2026w27",
+      "name": "Frost Shelter: Survival War",
+      "alias": "Frost Shelter",
+      "publisher": "APKCombo/策略新上线候选",
+      "developer": "待采集",
+      "theme": "冰雪生存",
+      "gameplay": ["城建", "联盟战", "生存", "SLG候选"],
+      "iosAppId": "待采集",
+      "androidPackage": "unknown.frost.shelter",
+      "officialSite": "https://apkcombo.com/zh/game/strategy/",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": ["全球"],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 0,
+      "confidence": "低",
+      "status": "待人工确认",
+      "listType": "newLaunch",
+      "sourceHint": "APKCombo 策略新上线候选，需确认是 SLG 手游"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-demo-20260702-last-war",
+      "gameId": "last-war",
+      "date": "2026-07-02",
+      "type": "活动",
+      "title": "联盟补给周开启",
+      "summary": "官方公告显示新增联盟积分任务、资源补给礼包和限时排行榜奖励。",
+      "version": "1.0.310",
+      "countries": ["全球"],
+      "sourcePlatform": "官网公告",
+      "sourceUrl": "https://lastwar.com/",
+      "confidence": "中",
+      "status": "新增发现"
+    }
+  ],
+  "creatives": [
+    {
+      "id": "ad-demo-20260702-whiteout-meta",
+      "gameId": "whiteout-survival",
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02",
+      "platform": "Meta",
+      "countries": ["US", "JP", "DE"],
+      "language": "en/ja/de",
+      "format": "竖版视频",
+      "title": "寒潮倒计时创意扩量",
+      "hook": "前三秒用低温倒计时和资源不足制造紧张感，随后切入城建升级。",
+      "tags": ["冰雪", "生存危机", "城建", "扩量"],
+      "sourceUrl": "https://www.facebook.com/ads/library/",
+      "confidence": "中",
+      "status": "新增"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-07-02T03:03:29.171Z",
+  "entries": [
+    {
+      "source": "AppMagic",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "Sensor Tower",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "data.ai",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "Apptica",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "Playwright",
+      "ok": false,
+      "skipped": true,
+      "message": "No playwright-candidates.json"
+    },
+    {
+      "source": "Google Play games",
+      "url": "https://play.google.com/store/games?device=phone",
+      "ok": true,
+      "extracted": 9
+    },
+    {
+      "source": "APKCombo strategy",
+      "url": "https://apkcombo.com/zh/game/strategy/",
+      "ok": false,
+      "message": "HTTP 403"
+    },
+    {
+      "source": "remote-summary",
+      "ok": true,
+      "hot": 1,
+      "newLaunch": 0
+    }
+  ]
+}

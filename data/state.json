@@ -1,0 +1,2151 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-02T03:03:29.171Z",
+  "timezone": "Asia/Shanghai",
+  "latestDate": "2026-07-01",
+  "games": [
+    {
+      "id": "last-war",
+      "name": "Last War: Survival Game",
+      "alias": "Last War: Survival Game",
+      "publisher": "FirstFun",
+      "developer": "FirstFun",
+      "theme": "末日生存",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "英雄养成",
+        "小游戏导流"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 96,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "whiteout-survival",
+      "name": "Whiteout Survival",
+      "alias": "Whiteout Survival",
+      "publisher": "Century Games",
+      "developer": "Century Games",
+      "theme": "冰雪生存",
+      "gameplay": [
+        "4X",
+        "城建",
+        "联盟战",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 95,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "kingshot",
+      "name": "Kingshot",
+      "alias": "Kingshot",
+      "publisher": "Century Games",
+      "developer": "Century Games",
+      "theme": "中世纪生存",
+      "gameplay": [
+        "城建",
+        "联盟战",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 91,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "rise-of-kingdoms",
+      "name": "Rise of Kingdoms",
+      "alias": "Rise of Kingdoms",
+      "publisher": "Lilith Games",
+      "developer": "Lilith Games",
+      "theme": "历史文明",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "英雄养成",
+        "开放地图"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 89,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "lords-mobile",
+      "name": "Lords Mobile",
+      "alias": "Lords Mobile",
+      "publisher": "IGG",
+      "developer": "IGG",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "英雄养成",
+        "RPG"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 86,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "age-of-origins",
+      "name": "Age of Origins",
+      "alias": "Age of Origins",
+      "publisher": "Camel Games",
+      "developer": "Camel Games",
+      "theme": "丧尸末日",
+      "gameplay": [
+        "4X",
+        "塔防",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 84,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "state-of-survival",
+      "name": "State of Survival",
+      "alias": "State of Survival",
+      "publisher": "FunPlus",
+      "developer": "FunPlus",
+      "theme": "丧尸生存",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "英雄养成",
+        "剧情"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 83,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "evony",
+      "name": "Evony: The King's Return",
+      "alias": "Evony: The King's Return",
+      "publisher": "Top Games",
+      "developer": "Top Games",
+      "theme": "历史战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "解谜导流",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 82,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "puzzles-survival",
+      "name": "Puzzles & Survival",
+      "alias": "Puzzles & Survival",
+      "publisher": "37GAMES",
+      "developer": "37GAMES",
+      "theme": "丧尸末日",
+      "gameplay": [
+        "三消+SLG",
+        "联盟战",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 81,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "top-war",
+      "name": "Top War: Battle Game",
+      "alias": "Top War: Battle Game",
+      "publisher": "Topwar Studio",
+      "developer": "Topwar Studio",
+      "theme": "现代战争",
+      "gameplay": [
+        "合成+SLG",
+        "联盟战",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 79,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "call-of-dragons",
+      "name": "Call of Dragons",
+      "alias": "Call of Dragons",
+      "publisher": "FARLIGHT",
+      "developer": "FARLIGHT",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "开放地图",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 78,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "viking-rise",
+      "name": "Viking Rise",
+      "alias": "Viking Rise",
+      "publisher": "IGG",
+      "developer": "IGG",
+      "theme": "维京战争",
+      "gameplay": [
+        "4X",
+        "城建",
+        "联盟战"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 76,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "sea-of-conquest",
+      "name": "Sea of Conquest: Pirate War",
+      "alias": "Sea of Conquest: Pirate War",
+      "publisher": "FunPlus",
+      "developer": "FunPlus",
+      "theme": "海盗航海",
+      "gameplay": [
+        "航海SLG",
+        "联盟战",
+        "英雄养成",
+        "探索"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 75,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "grand-mafia",
+      "name": "The Grand Mafia",
+      "alias": "The Grand Mafia",
+      "publisher": "Phantix Games",
+      "developer": "Phantix Games",
+      "theme": "黑帮",
+      "gameplay": [
+        "黑帮SLG",
+        "联盟战",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 74,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "mafia-city",
+      "name": "Mafia City",
+      "alias": "Mafia City",
+      "publisher": "Phantix Games",
+      "developer": "Phantix Games",
+      "theme": "黑帮",
+      "gameplay": [
+        "黑帮SLG",
+        "城建",
+        "联盟战"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 73,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "king-of-avalon",
+      "name": "King of Avalon",
+      "alias": "King of Avalon",
+      "publisher": "FunPlus",
+      "developer": "FunPlus",
+      "theme": "亚瑟王奇幻",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "龙养成",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 71,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "guns-of-glory",
+      "name": "Guns of Glory",
+      "alias": "Guns of Glory",
+      "publisher": "FunPlus",
+      "developer": "FunPlus",
+      "theme": "火枪奇幻",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "飞艇养成",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 69,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "war-and-order",
+      "name": "War and Order",
+      "alias": "War and Order",
+      "publisher": "Camel Games",
+      "developer": "Camel Games",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 68,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "doomsday-last-survivors",
+      "name": "Doomsday: Last Survivors",
+      "alias": "Doomsday: Last Survivors",
+      "publisher": "IGG",
+      "developer": "IGG",
+      "theme": "丧尸末日",
+      "gameplay": [
+        "4X",
+        "塔防",
+        "联盟战",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 67,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "clash-of-kings",
+      "name": "Clash of Kings",
+      "alias": "Clash of Kings",
+      "publisher": "Elex",
+      "developer": "Elex",
+      "theme": "中世纪战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 65,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "march-of-empires",
+      "name": "March of Empires",
+      "alias": "March of Empires",
+      "publisher": "Gameloft",
+      "developer": "Gameloft",
+      "theme": "中世纪战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 64,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "infinite-lagrange",
+      "name": "Infinite Lagrange",
+      "alias": "Infinite Lagrange",
+      "publisher": "NetEase Games",
+      "developer": "NetEase Games",
+      "theme": "太空科幻",
+      "gameplay": [
+        "太空SLG",
+        "联盟战",
+        "舰队",
+        "赛季制"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 63,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "star-trek-fleet-command",
+      "name": "Star Trek Fleet Command",
+      "alias": "Star Trek Fleet Command",
+      "publisher": "Scopely",
+      "developer": "Scopely",
+      "theme": "太空科幻",
+      "gameplay": [
+        "太空SLG",
+        "联盟战",
+        "IP改编"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 62,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "warpath",
+      "name": "Warpath",
+      "alias": "Warpath",
+      "publisher": "Lilith Games",
+      "developer": "Lilith Games",
+      "theme": "现代战争",
+      "gameplay": [
+        "战争SLG",
+        "联盟战",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 61,
+      "confidence": "中",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "total-battle",
+      "name": "Total Battle",
+      "alias": "Total Battle",
+      "publisher": "Scorewarrior",
+      "developer": "Scorewarrior",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 60,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "stormshot",
+      "name": "Stormshot",
+      "alias": "Stormshot",
+      "publisher": "FunPlus",
+      "developer": "FunPlus",
+      "theme": "火枪解谜",
+      "gameplay": [
+        "解谜导流",
+        "城建",
+        "联盟战"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 59,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "frost-flame",
+      "name": "Frost & Flame: King of Avalon",
+      "alias": "Frost & Flame: King of Avalon",
+      "publisher": "FunPlus",
+      "developer": "FunPlus",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "龙养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 58,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "ant-underground",
+      "name": "The Ants: Underground Kingdom",
+      "alias": "The Ants: Underground Kingdom",
+      "publisher": "StarUnion",
+      "developer": "StarUnion",
+      "theme": "蚂蚁生态",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "生态题材"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 57,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "wild-castle",
+      "name": "Wild Castle TD Grow Empire",
+      "alias": "Wild Castle TD Grow Empire",
+      "publisher": "Funovus",
+      "developer": "Funovus",
+      "theme": "城防战争",
+      "gameplay": [
+        "城防",
+        "养成",
+        "策略"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 56,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "empire-puzzles",
+      "name": "Empires & Puzzles",
+      "alias": "Empires & Puzzles",
+      "publisher": "Zynga",
+      "developer": "Zynga",
+      "theme": "奇幻三消",
+      "gameplay": [
+        "三消+SLG",
+        "联盟",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 55,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "grand-cross-w",
+      "name": "Grand Cross: Age of Titans",
+      "alias": "Grand Cross: Age of Titans",
+      "publisher": "Netmarble",
+      "developer": "Netmarble",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "英雄养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 54,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "godfather",
+      "name": "The Godfather: Family Dynasty",
+      "alias": "The Godfather: Family Dynasty",
+      "publisher": "FT Games",
+      "developer": "FT Games",
+      "theme": "黑帮",
+      "gameplay": [
+        "黑帮SLG",
+        "城建",
+        "联盟战"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 53,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "survival-city-builder",
+      "name": "Survival City Builder War",
+      "alias": "Survival City Builder War",
+      "publisher": "Multi-source Candidate",
+      "developer": "Multi-source Candidate",
+      "theme": "末日生存",
+      "gameplay": [
+        "城建",
+        "生存",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 52,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "war-robots-strategy",
+      "name": "War Robots Strategy Candidate",
+      "alias": "War Robots Strategy Candidate",
+      "publisher": "Multi-source Candidate",
+      "developer": "Multi-source Candidate",
+      "theme": "机甲战争",
+      "gameplay": [
+        "联盟战",
+        "基地建设",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 51,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "rise-of-castles",
+      "name": "Rise of Castles: Ice and Fire",
+      "alias": "Rise of Castles: Ice and Fire",
+      "publisher": "Long Tech Network",
+      "developer": "Long Tech Network",
+      "theme": "中世纪战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 50,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "last-shelter",
+      "name": "Last Shelter: Survival",
+      "alias": "Last Shelter: Survival",
+      "publisher": "Long Tech Network",
+      "developer": "Long Tech Network",
+      "theme": "末日生存",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 49,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "world-war-rising",
+      "name": "World War Rising",
+      "alias": "World War Rising",
+      "publisher": "Mobile War",
+      "developer": "Mobile War",
+      "theme": "现代战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 48,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "final-order",
+      "name": "Final Order",
+      "alias": "Final Order",
+      "publisher": "CamelStudio",
+      "developer": "CamelStudio",
+      "theme": "末日生存",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 47,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "zombie-waves-slg",
+      "name": "Zombie Waves Strategy Candidate",
+      "alias": "Zombie Waves Strategy Candidate",
+      "publisher": "Multi-source Candidate",
+      "developer": "Multi-source Candidate",
+      "theme": "丧尸末日",
+      "gameplay": [
+        "生存",
+        "城建",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 46,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "age-of-apes",
+      "name": "Age of Apes",
+      "alias": "Age of Apes",
+      "publisher": "Tap4Fun",
+      "developer": "Tap4Fun",
+      "theme": "猿族战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 45,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "brutal-age",
+      "name": "Brutal Age: Horde Invasion",
+      "alias": "Brutal Age: Horde Invasion",
+      "publisher": "Tap4Fun",
+      "developer": "Tap4Fun",
+      "theme": "原始部落",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 44,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "invasion-modern-empire",
+      "name": "Invasion: Modern Empire",
+      "alias": "Invasion: Modern Empire",
+      "publisher": "Tap4Fun",
+      "developer": "Tap4Fun",
+      "theme": "现代战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 43,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "kiss-of-war",
+      "name": "Kiss of War",
+      "alias": "Kiss of War",
+      "publisher": "Tap4Fun",
+      "developer": "Tap4Fun",
+      "theme": "二战题材",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "角色养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 42,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "warhammer-chaos-conquest",
+      "name": "Warhammer: Chaos & Conquest",
+      "alias": "Warhammer: Chaos & Conquest",
+      "publisher": "Tilting Point",
+      "developer": "Tilting Point",
+      "theme": "奇幻IP",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "IP改编"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 41,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "iron-throne",
+      "name": "Iron Throne",
+      "alias": "Iron Throne",
+      "publisher": "Netmarble",
+      "developer": "Netmarble",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 40,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "game-of-sultans",
+      "name": "Game of Sultans",
+      "alias": "Game of Sultans",
+      "publisher": "DreamPlus",
+      "developer": "DreamPlus",
+      "theme": "宫廷经营",
+      "gameplay": [
+        "经营策略",
+        "联盟",
+        "养成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 39,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "kingdom-guard",
+      "name": "Kingdom Guard",
+      "alias": "Kingdom Guard",
+      "publisher": "Tap4Fun",
+      "developer": "Tap4Fun",
+      "theme": "奇幻塔防",
+      "gameplay": [
+        "塔防+SLG",
+        "联盟战",
+        "合成"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 38,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "age-of-lords",
+      "name": "Age of Lords",
+      "alias": "Age of Lords",
+      "publisher": "Erepublik Labs",
+      "developer": "Erepublik Labs",
+      "theme": "中世纪战争",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 37,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "throne-rush",
+      "name": "Throne Rush",
+      "alias": "Throne Rush",
+      "publisher": "Nexters",
+      "developer": "Nexters",
+      "theme": "奇幻战争",
+      "gameplay": [
+        "城建",
+        "联盟战",
+        "策略"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 36,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "battle-warship",
+      "name": "Battle Warship: Naval Empire",
+      "alias": "Battle Warship: Naval Empire",
+      "publisher": "Special Gamez",
+      "developer": "Special Gamez",
+      "theme": "海战",
+      "gameplay": [
+        "4X",
+        "联盟战",
+        "舰队"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 35,
+      "confidence": "低",
+      "status": "监控中",
+      "listType": "hot50",
+      "sourceHint": "热度池候选，建议接商业榜单校准"
+    },
+    {
+      "id": "new-frost-shelter-2026w27",
+      "name": "Frost Shelter: Survival War",
+      "alias": "Frost Shelter: Survival War",
+      "publisher": "APKCombo/策略新上线候选",
+      "developer": "APKCombo/策略新上线候选",
+      "theme": "冰雪生存",
+      "gameplay": [
+        "城建",
+        "联盟战",
+        "生存",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://apkcombo.com/zh/game/strategy/",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-06-22",
+      "heatScore": 0,
+      "confidence": "低",
+      "status": "待人工确认",
+      "listType": "newLaunch",
+      "sourceHint": "候选来源：APKCombo 策略分类的新上线/最近更新入口；需人工确认是 SLG 手游"
+    },
+    {
+      "id": "new-zombie-state-2026w27",
+      "name": "Zombie State: Alliance War",
+      "alias": "Zombie State: Alliance War",
+      "publisher": "APKCombo/策略新上线候选",
+      "developer": "APKCombo/策略新上线候选",
+      "theme": "丧尸末日",
+      "gameplay": [
+        "联盟战",
+        "基地建设",
+        "英雄养成",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://apkcombo.com/zh/game/strategy/",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-06-23",
+      "heatScore": 0,
+      "confidence": "低",
+      "status": "待人工确认",
+      "listType": "newLaunch",
+      "sourceHint": "候选来源：APKCombo 策略分类的新上线/最近更新入口；需人工确认是 SLG 手游"
+    },
+    {
+      "id": "new-empire-frontier-2026w27",
+      "name": "Empire Frontier: Kingdoms",
+      "alias": "Empire Frontier: Kingdoms",
+      "publisher": "APKCombo/策略新上线候选",
+      "developer": "APKCombo/策略新上线候选",
+      "theme": "中世纪战争",
+      "gameplay": [
+        "4X",
+        "城建",
+        "联盟战",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://apkcombo.com/zh/game/strategy/",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-06-24",
+      "heatScore": 0,
+      "confidence": "低",
+      "status": "待人工确认",
+      "listType": "newLaunch",
+      "sourceHint": "候选来源：APKCombo 策略分类的新上线/最近更新入口；需人工确认是 SLG 手游"
+    },
+    {
+      "id": "new-galaxy-command-2026w27",
+      "name": "Galaxy Commanders: Nebula War",
+      "alias": "Galaxy Commanders: Nebula War",
+      "publisher": "APKCombo/策略新上线候选",
+      "developer": "APKCombo/策略新上线候选",
+      "theme": "太空科幻",
+      "gameplay": [
+        "太空SLG",
+        "舰队",
+        "联盟战",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://apkcombo.com/zh/game/strategy/",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-06-25",
+      "heatScore": 0,
+      "confidence": "低",
+      "status": "待人工确认",
+      "listType": "newLaunch",
+      "sourceHint": "候选来源：APKCombo 策略分类的新上线/最近更新入口；需人工确认是 SLG 手游"
+    },
+    {
+      "id": "new-mafia-district-2026w27",
+      "name": "Mafia District: Street Empire",
+      "alias": "Mafia District: Street Empire",
+      "publisher": "APKCombo/策略新上线候选",
+      "developer": "APKCombo/策略新上线候选",
+      "theme": "黑帮",
+      "gameplay": [
+        "黑帮SLG",
+        "城建",
+        "联盟战",
+        "SLG候选"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://apkcombo.com/zh/game/strategy/",
+      "appStoreUrl": "",
+      "googlePlayUrl": "",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-06-26",
+      "heatScore": 0,
+      "confidence": "低",
+      "status": "待人工确认",
+      "listType": "newLaunch",
+      "sourceHint": "候选来源：APKCombo 策略分类的新上线/最近更新入口；需人工确认是 SLG 手游"
+    },
+    {
+      "id": "hot-clash-of-clans-2026-07-02",
+      "name": "播放《部落冲突 (Clash of Clans)》",
+      "alias": "播放《部落冲突 (Clash of Clans)》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 33,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-clash-royale-2026-07-02",
+      "name": "图标图片“Clash Royale”",
+      "alias": "图标图片“Clash Royale”",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 25,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-dragon-ball-legends-2026-07-02",
+      "name": "播放《DRAGON BALL LEGENDS》",
+      "alias": "播放《DRAGON BALL LEGENDS》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "中世纪/奇幻战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 31,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-lords-mobile-2026-07-02",
+      "name": "播放《王国纪元 (Lords Mobile)》",
+      "alias": "播放《王国纪元 (Lords Mobile)》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 30,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-cookierun-kingdom-2026-07-02",
+      "name": "播放《CookieRun: Kingdom》",
+      "alias": "播放《CookieRun: Kingdom》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "中世纪/奇幻战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 29,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-left-to-survive-survival-game-2026-07-02",
+      "name": "播放《Left to Survive: Survival Game》",
+      "alias": "播放《Left to Survive: Survival Game》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "末日生存",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "生存",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 28,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-the-battle-of-polytopia-2026-07-02",
+      "name": "播放《The Battle of Polytopia》",
+      "alias": "播放《The Battle of Polytopia》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 27,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-snake-clash-2026-07-02",
+      "name": "播放《蛇冲突 (Snake Clash)》",
+      "alias": "播放《蛇冲突 (Snake Clash)》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 26,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-streets-of-rage-4-2026-07-02",
+      "name": "图标图片“Streets of Rage 4”",
+      "alias": "图标图片“Streets of Rage 4”",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-02",
+      "heatScore": 25,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-001",
+      "gameId": "last-war",
+      "date": "2026-07-01",
+      "type": "版本",
+      "title": "英雄平衡与联盟战体验更新",
+      "summary": "新增英雄技能调整、联盟战配对优化和多语言文案修复。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "App Store",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    },
+    {
+      "id": "evt-002",
+      "gameId": "whiteout-survival",
+      "date": "2026-06-30",
+      "type": "活动",
+      "title": "夏季庆典限时活动",
+      "summary": "节日任务、联盟积分、限时礼包和英雄碎片奖励同步上线。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "官网公告",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    },
+    {
+      "id": "evt-003",
+      "gameId": "kingshot",
+      "date": "2026-07-01",
+      "type": "活动",
+      "title": "新服冲榜与资源补给活动",
+      "summary": "疑似围绕新服开服期进行素材和活动联动，资源礼包曝光增加。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "社媒",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    },
+    {
+      "id": "evt-004",
+      "gameId": "rise-of-kingdoms",
+      "date": "2026-06-29",
+      "type": "活动",
+      "title": "文明主题赛季预热",
+      "summary": "预热内容强调新赛季、迁城策略和联盟协作。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "Facebook",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    },
+    {
+      "id": "evt-005",
+      "gameId": "sea-of-conquest",
+      "date": "2026-06-28",
+      "type": "版本",
+      "title": "舰队系统与海域探索更新",
+      "summary": "围绕舰队养成和海域探索增加新目标，素材侧同步突出海盗题材。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "Google Play",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    },
+    {
+      "id": "evt-006",
+      "gameId": "puzzles-survival",
+      "date": "2026-06-29",
+      "type": "活动",
+      "title": "联盟补给与三消关卡挑战",
+      "summary": "活动将三消关卡和联盟补给绑定，适合观察混合玩法素材投放。",
+      "version": "待采集",
+      "countries": [
+        "全球"
+      ],
+      "sourcePlatform": "官网公告",
+      "sourceUrl": "",
+      "confidence": "中",
+      "status": "确认发生"
+    }
+  ],
+  "creatives": [
+    {
+      "id": "ad-001",
+      "gameId": "last-war",
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "platform": "TikTok",
+      "countries": [
+        "全球"
+      ],
+      "language": "多语言",
+      "format": "竖版视频",
+      "title": "拯救幸存者开局钩子",
+      "hook": "前三秒用选择路线和救援失败制造压力。",
+      "tags": [
+        "末日",
+        "小游戏导流",
+        "强钩子",
+        "竖屏"
+      ],
+      "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en",
+      "confidence": "中",
+      "status": "新增"
+    },
+    {
+      "id": "ad-002",
+      "gameId": "whiteout-survival",
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30",
+      "platform": "Meta",
+      "countries": [
+        "全球"
+      ],
+      "language": "多语言",
+      "format": "竖版视频",
+      "title": "雪原求生资源危机",
+      "hook": "寒潮倒计时叠加资源不足，转入城建升级。",
+      "tags": [
+        "冰雪",
+        "生存危机",
+        "城建",
+        "多语言"
+      ],
+      "sourceUrl": "https://www.facebook.com/ads/library/",
+      "confidence": "中",
+      "status": "新增"
+    },
+    {
+      "id": "ad-003",
+      "gameId": "kingshot",
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01",
+      "platform": "TikTok",
+      "countries": [
+        "全球"
+      ],
+      "language": "多语言",
+      "format": "竖版视频",
+      "title": "王国扩张与资源抉择",
+      "hook": "从资源短缺切入，展示新手期快速扩张。",
+      "tags": [
+        "中世纪",
+        "城建",
+        "新服",
+        "资源"
+      ],
+      "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/topads/pc/en",
+      "confidence": "中",
+      "status": "新增"
+    }
+  ],
+  "reports": {
+    "weekly": {
+      "title": "周报",
+      "generatedAt": "2026-07-02T03:03:29.171Z",
+      "range": {
+        "start": "2026-06-22",
+        "end": "2026-06-28",
+        "endExclusive": "2026-06-29"
+      },
+      "triggerDate": "2026-06-29",
+      "versionCount": 1,
+      "activityCount": 0,
+      "creativeCount": 0,
+      "gameCount": 1,
+      "highlights": [
+        "Sea of Conquest: Pirate War 有新增版本、活动或素材记录"
+      ],
+      "summary": "本期覆盖 Sea of Conquest: Pirate War。"
+    },
+    "monthly": {
+      "title": "月报",
+      "generatedAt": "2026-07-02T03:03:29.171Z",
+      "range": {
+        "start": "2026-05-01",
+        "end": "2026-05-31",
+        "endExclusive": "2026-06-01"
+      },
+      "triggerDate": "2026-06-01",
+      "versionCount": 0,
+      "activityCount": 0,
+      "creativeCount": 0,
+      "gameCount": 0,
+      "highlights": [],
+      "summary": "本期暂无新增记录。"
+    }
+  },
+  "sourceLog": [
+    {
+      "source": "AppMagic",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "Sensor Tower",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "data.ai",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "Apptica",
+      "ok": true,
+      "imported": 0,
+      "mode": "file"
+    },
+    {
+      "source": "Playwright",
+      "ok": false,
+      "skipped": true,
+      "message": "No playwright-candidates.json"
+    },
+    {
+      "source": "Google Play games",
+      "url": "https://play.google.com/store/games?device=phone",
+      "ok": true,
+      "extracted": 9
+    },
+    {
+      "source": "APKCombo strategy",
+      "url": "https://apkcombo.com/zh/game/strategy/",
+      "ok": false,
+      "message": "HTTP 403"
+    },
+    {
+      "source": "remote-summary",
+      "ok": true,
+      "hot": 1,
+      "newLaunch": 0
+    }
+  ],
+  "sources": {
+    "googlePlayGames": "https://play.google.com/store/games?device=phone",
+    "apkcombo": "https://apkcombo.com/zh/game/strategy/",
+    "note": "Google Play 手机游戏榜单可作为热度池参考；APKCombo 策略分类可作为新测试/新上线候选。当前脚本保留低成本候选生成和人工导入入口；正式抓取第三方网站时需确认条款和稳定性。"
+  }
+}
