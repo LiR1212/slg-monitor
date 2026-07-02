@@ -6,13 +6,9 @@
 
 ## 打开方式
 
-本地打开：
-
-`C:\Users\TU\Desktop\H5文件\260701\SLG增量监控\index.html`
-
 GitHub Pages 上线后访问：
 
-`https://lir1212.github.io/mesmer/`
+`https://lir1212.github.io/slg-monitor/`
 
 ## 已实现功能
 
