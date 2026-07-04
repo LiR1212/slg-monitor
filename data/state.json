@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-03T04:49:11.146Z",
+  "generatedAt": "2026-07-04T04:40:47.486Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -1916,6 +1916,36 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-fishing-clash-sport-simulator-2026-07-04",
+      "name": "播放《Fishing Clash: Sport Simulator》",
+      "alias": "播放《Fishing Clash: Sport Simulator》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-04",
+      "heatScore": 26,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2090,7 +2120,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-07-03T04:49:11.146Z",
+      "generatedAt": "2026-07-04T04:40:47.486Z",
       "range": {
         "start": "2026-06-22",
         "end": "2026-06-28",
@@ -2108,7 +2138,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-07-03T04:49:11.146Z",
+      "generatedAt": "2026-07-04T04:40:47.486Z",
       "range": {
         "start": "2026-05-01",
         "end": "2026-05-31",
@@ -2162,7 +2192,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 9
+      "extracted": 10
     },
     {
       "source": "APKCombo strategy",
