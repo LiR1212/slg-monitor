@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-05T05:02:22.119Z",
+  "generatedAt": "2026-07-06T05:18:04.403Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2006,6 +2006,36 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-doomsday-fairy-tail-2026-07-06",
+      "name": "播放《Doomsday × FAIRY TAIL》",
+      "alias": "播放《Doomsday × FAIRY TAIL》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "末日生存",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "生存",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-06",
+      "heatScore": 26,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2180,37 +2210,46 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-07-05T05:02:22.119Z",
+      "generatedAt": "2026-07-06T05:18:04.403Z",
       "range": {
-        "start": "2026-06-22",
-        "end": "2026-06-28",
-        "endExclusive": "2026-06-29"
+        "start": "2026-06-29",
+        "end": "2026-07-05",
+        "endExclusive": "2026-07-06"
       },
-      "triggerDate": "2026-06-29",
+      "triggerDate": "2026-07-06",
       "versionCount": 1,
-      "activityCount": 0,
-      "creativeCount": 0,
-      "gameCount": 1,
+      "activityCount": 4,
+      "creativeCount": 3,
+      "gameCount": 5,
       "highlights": [
-        "Sea of Conquest: Pirate War 有新增版本、活动或素材记录"
+        "Last War: Survival Game 有新增版本、活动或素材记录",
+        "Whiteout Survival 有新增版本、活动或素材记录",
+        "Kingshot 有新增版本、活动或素材记录",
+        "Rise of Kingdoms 有新增版本、活动或素材记录",
+        "Puzzles & Survival 有新增版本、活动或素材记录"
       ],
-      "summary": "本期覆盖 Sea of Conquest: Pirate War。"
+      "summary": "本期覆盖 Last War: Survival Game、Whiteout Survival、Kingshot、Rise of Kingdoms、Puzzles & Survival。"
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-07-05T05:02:22.119Z",
+      "generatedAt": "2026-07-06T05:18:04.403Z",
       "range": {
-        "start": "2026-05-01",
-        "end": "2026-05-31",
-        "endExclusive": "2026-06-01"
+        "start": "2026-06-01",
+        "end": "2026-06-30",
+        "endExclusive": "2026-07-01"
       },
-      "triggerDate": "2026-06-01",
-      "versionCount": 0,
-      "activityCount": 0,
-      "creativeCount": 0,
-      "gameCount": 0,
-      "highlights": [],
-      "summary": "本期暂无新增记录。"
+      "triggerDate": "2026-07-06",
+      "versionCount": 1,
+      "activityCount": 3,
+      "creativeCount": 1,
+      "gameCount": 4,
+      "highlights": [
+        "Whiteout Survival 有新增版本、活动或素材记录",
+        "Rise of Kingdoms 有新增版本、活动或素材记录",
+        "Sea of Conquest: Pirate War 有新增版本、活动或素材记录",
+        "Puzzles & Survival 有新增版本、活动或素材记录"
+      ],
+      "summary": "本期覆盖 Whiteout Survival、Rise of Kingdoms、Sea of Conquest: Pirate War、Puzzles & Survival。"
     }
   },
   "sourceLog": [
@@ -2252,7 +2291,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 11
+      "extracted": 10
     },
     {
       "source": "APKCombo strategy",
@@ -2263,7 +2302,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 2,
+      "hot": 1,
       "newLaunch": 0
     }
   ],
