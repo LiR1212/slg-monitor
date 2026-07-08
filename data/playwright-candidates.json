@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T04:59:30.705Z",
+  "generatedAt": "2026-07-08T04:20:01.329Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -178,8 +178,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-kingshot-4-4-star-pw",
-      "name": "9 Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "id": "hot50-10-kingshot-4-4-star-pw",
+      "name": "10 Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -202,40 +202,40 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-31-snake-clash-io-4-5-star-pw",
-      "name": "31 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-25-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "25 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-io-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
+      "id": "hot50-total-battle-war-strategy-pw",
+      "name": "Total Battle: War Strategy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-35-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "35 Total Battle: War Strategy • 4X • 翻修 4.1 star",
+      "id": "hot50-34-snake-clash-io-4-5-star-pw",
+      "name": "34 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X • 翻修 4.1 star",
+      "id": "hot50-snake-clash-io-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
