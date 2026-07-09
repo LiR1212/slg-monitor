@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T04:20:01.329Z",
+  "generatedAt": "2026-07-09T04:59:25.723Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -74,35 +74,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-lords-mobile-4x-4-5-star-pw",
-      "name": "王国纪元 (Lords Mobile) • 4X 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lords-mobile-pw",
-      "name": "播放《王国纪元 (Lords Mobile)》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lords-mobile-pw",
-      "name": "王国纪元 (Lords Mobile)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-evony-the-king-s-return-4x-4-0-star-pw",
       "name": "Evony: The King's Return • 4X 4.0 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
+      "rank": 10,
       "listType": "hot50"
     },
     {
@@ -110,7 +86,7 @@
       "name": "Evony: The King's Return",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
+      "rank": 11,
       "listType": "hot50"
     },
     {
@@ -118,7 +94,7 @@
       "name": "CookieRun: Kingdom 角色扮演 • 动作 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
+      "rank": 12,
       "listType": "hot50"
     },
     {
@@ -126,7 +102,7 @@
       "name": "播放《CookieRun: Kingdom》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 13,
       "listType": "hot50"
     },
     {
@@ -134,23 +110,31 @@
       "name": "CookieRun: Kingdom",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 14,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-lords-mobile-4x-4-5-star-pw",
+      "name": "王国纪元 (Lords Mobile) • 4X 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-lords-mobile-pw",
+      "name": "播放《王国纪元 (Lords Mobile)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-lords-mobile-pw",
+      "name": "王国纪元 (Lords Mobile)",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 17,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-age-of-apes-4x-4-6-star-pw",
-      "name": "Age of Apes: 猿族时代 • 4X 4.6 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-age-of-apes-pw",
-      "name": "Age of Apes: 猿族时代",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -158,7 +142,7 @@
       "name": "Left to Survive: Survival Game 动作 • 子弹风暴 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 18,
       "listType": "hot50"
     },
     {
@@ -166,7 +150,7 @@
       "name": "播放《Left to Survive: Survival Game》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -174,12 +158,28 @@
       "name": "Left to Survive: Survival Game",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-age-of-apes-4x-4-6-star-pw",
+      "name": "Age of Apes: 猿族时代 • 4X 4.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-age-of-apes-pw",
+      "name": "Age of Apes: 猿族时代",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-10-kingshot-4-4-star-pw",
-      "name": "10 Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "id": "hot50-11-kingshot-4-4-star-pw",
+      "name": "11 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -187,7 +187,7 @@
     },
     {
       "id": "hot50-kingshot-4-4-star-pw",
-      "name": "Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "name": "Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
@@ -202,8 +202,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-25-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "25 Total Battle: War Strategy • 4X • 翻修 4.1 star",
+      "id": "hot50-22-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "22 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
@@ -226,8 +226,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-34-snake-clash-io-4-5-star-pw",
-      "name": "34 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-36-snake-clash-io-4-5-star-pw",
+      "name": "36 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
