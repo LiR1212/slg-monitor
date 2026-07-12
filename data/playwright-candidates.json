@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T04:18:23.216Z",
+  "generatedAt": "2026-07-12T04:29:34.954Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -179,7 +179,7 @@
     },
     {
       "id": "hot50-15-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "15 Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "name": "15 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -187,7 +187,7 @@
     },
     {
       "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "name": "Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
@@ -226,16 +226,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-30-dragon-ball-z-dokkan-battle-4-6-star-pw",
-      "name": "30 DRAGON BALL Z DOKKAN BATTLE 动作 • 角色扮演 • 单人 • 益智 4.6 star",
+      "id": "hot50-34-snake-clash-io-4-5-star-pw",
+      "name": "34 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-dragon-ball-z-dokkan-battle-4-6-star-pw",
-      "name": "DRAGON BALL Z DOKKAN BATTLE 动作 • 角色扮演 • 单人 • 益智 4.6 star",
+      "id": "hot50-snake-clash-io-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
