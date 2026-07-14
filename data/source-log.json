@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T04:34:53.068Z",
+  "generatedAt": "2026-07-14T04:08:35.455Z",
   "entries": [
     {
       "source": "AppMagic",
@@ -39,7 +39,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 9
+      "extracted": 10
     },
     {
       "source": "APKCombo strategy",
