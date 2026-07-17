@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T04:13:36.547Z",
+  "generatedAt": "2026-07-17T04:12:57.277Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2300,7 +2300,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-07-16T04:13:36.547Z",
+      "generatedAt": "2026-07-17T04:12:57.277Z",
       "range": {
         "start": "2026-07-06",
         "end": "2026-07-12",
@@ -2316,7 +2316,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-07-16T04:13:36.547Z",
+      "generatedAt": "2026-07-17T04:12:57.277Z",
       "range": {
         "start": "2026-06-01",
         "end": "2026-06-30",

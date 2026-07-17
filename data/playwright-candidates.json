@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T04:13:36.473Z",
+  "generatedAt": "2026-07-17T04:12:57.189Z",
   "candidates": [
     {
-      "id": "hot50-streets-of-rage-4-4-8-star-us-1-89-pw",
-      "name": "Streets of Rage 4 4.8 star US$1.89",
+      "id": "hot50-streets-of-rage-4-4-8-star-us-8-49-pw",
+      "name": "Streets of Rage 4 4.8 star US$8.49",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 1,
@@ -26,8 +26,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-11-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "11 Total Battle: War Strategy • 4X • 翻修 4.1 star",
+      "id": "hot50-10-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "10 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
@@ -50,35 +50,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-32-kingshot-4-4-star-pw",
-      "name": "32 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "id": "hot50-32-snake-clash-io-4-5-star-pw",
+      "name": "32 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-kingshot-4-4-star-pw",
-      "name": "Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 8,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-kingshot-pw",
-      "name": "Kingshot",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 9,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-35-snake-clash-io-4-5-star-pw",
-      "name": "35 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
       "listType": "hot50"
     },
     {
@@ -86,12 +62,36 @@
       "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
+      "rank": 8,
       "listType": "hot50"
     },
     {
       "id": "hot50-snake-clash-pw",
       "name": "蛇冲突 (Snake Clash)",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 9,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-34-kingshot-4-4-star-pw",
+      "name": "34 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 10,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-kingshot-4-4-star-pw",
+      "name": "Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 11,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-kingshot-pw",
+      "name": "Kingshot",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 12,
@@ -210,8 +210,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-cookierun-kingdom-4-8-star-pw",
-      "name": "CookieRun: Kingdom 角色扮演 • 动作 4.8 star",
+      "id": "hot50-cookierun-kingdom-4-7-star-pw",
+      "name": "CookieRun: Kingdom 角色扮演 • 动作 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
