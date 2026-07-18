@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-17T04:12:57.277Z",
+  "generatedAt": "2026-07-18T04:05:01.213Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2126,6 +2126,36 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-cookierun-kingdom-2026-07-18",
+      "name": "图标图片“CookieRun: Kingdom”",
+      "alias": "图标图片“CookieRun: Kingdom”",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "中世纪/奇幻战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-07-18",
+      "heatScore": 25,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2300,7 +2330,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-07-17T04:12:57.277Z",
+      "generatedAt": "2026-07-18T04:05:01.213Z",
       "range": {
         "start": "2026-07-06",
         "end": "2026-07-12",
@@ -2316,7 +2346,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-07-17T04:12:57.277Z",
+      "generatedAt": "2026-07-18T04:05:01.213Z",
       "range": {
         "start": "2026-06-01",
         "end": "2026-06-30",
@@ -2375,7 +2405,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 9
+      "extracted": 10
     },
     {
       "source": "APKCombo strategy",
@@ -2386,7 +2416,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 1,
       "newLaunch": 0
     }
   ],
