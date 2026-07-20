@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T04:25:59.199Z",
+  "generatedAt": "2026-07-20T04:41:05.968Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2330,13 +2330,13 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-07-19T04:25:59.199Z",
+      "generatedAt": "2026-07-20T04:41:05.968Z",
       "range": {
-        "start": "2026-07-06",
-        "end": "2026-07-12",
-        "endExclusive": "2026-07-13"
+        "start": "2026-07-13",
+        "end": "2026-07-19",
+        "endExclusive": "2026-07-20"
       },
-      "triggerDate": "2026-07-13",
+      "triggerDate": "2026-07-20",
       "versionCount": 0,
       "activityCount": 0,
       "creativeCount": 0,
@@ -2346,7 +2346,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-07-19T04:25:59.199Z",
+      "generatedAt": "2026-07-20T04:41:05.968Z",
       "range": {
         "start": "2026-06-01",
         "end": "2026-06-30",
