@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:41:05.896Z",
+  "generatedAt": "2026-07-21T04:19:43.335Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -74,11 +74,27 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-evony-the-king-s-return-4x-4-0-star-pw",
+      "name": "Evony: The King's Return • 4X 4.0 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 10,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-evony-the-king-s-return-pw",
+      "name": "Evony: The King's Return",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 11,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-lords-mobile-4x-4-5-star-pw",
       "name": "王国纪元 (Lords Mobile) • 4X 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
+      "rank": 12,
       "listType": "hot50"
     },
     {
@@ -86,28 +102,12 @@
       "name": "播放《王国纪元 (Lords Mobile)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
+      "rank": 13,
       "listType": "hot50"
     },
     {
       "id": "hot50-lords-mobile-pw",
       "name": "王国纪元 (Lords Mobile)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-evony-the-king-s-return-4x-4-0-star-pw",
-      "name": "Evony: The King's Return • 4X 4.0 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-evony-the-king-s-return-pw",
-      "name": "Evony: The King's Return",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 14,
@@ -178,8 +178,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-24-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "24 Total Battle: War Strategy • 4X • 翻修 4.1 star",
+      "id": "hot50-22-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "22 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -202,8 +202,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-36-snake-clash-io-4-5-star-pw",
-      "name": "36 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-38-snake-clash-io-4-5-star-pw",
+      "name": "38 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
