@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:19:43.335Z",
+  "generatedAt": "2026-07-22T04:21:32.655Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -178,8 +178,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-22-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "22 Total Battle: War Strategy • 4X • 翻修 4.1 star",
+      "id": "hot50-26-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "26 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -202,8 +202,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-38-snake-clash-io-4-5-star-pw",
-      "name": "38 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-36-snake-clash-io-4-5-star-pw",
+      "name": "36 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
@@ -226,16 +226,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-42-kingshot-4-4-star-pw",
-      "name": "42 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "id": "hot50-cookierun-kingdom-4-7-star-pw",
+      "name": "CookieRun: Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingshot-4-4-star-pw",
-      "name": "Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "id": "hot50-cookierun-kingdom-pw",
+      "name": "图标图片“CookieRun: Kingdom”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
