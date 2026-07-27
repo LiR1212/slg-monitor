@@ -1,12 +1,12 @@
 {
   "title": "周报",
-  "generatedAt": "2026-07-26T04:32:04.099Z",
+  "generatedAt": "2026-07-27T04:42:00.197Z",
   "range": {
-    "start": "2026-07-13",
-    "end": "2026-07-19",
-    "endExclusive": "2026-07-20"
+    "start": "2026-07-20",
+    "end": "2026-07-26",
+    "endExclusive": "2026-07-27"
   },
-  "triggerDate": "2026-07-20",
+  "triggerDate": "2026-07-27",
   "versionCount": 0,
   "activityCount": 0,
   "creativeCount": 0,

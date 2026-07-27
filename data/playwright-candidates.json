@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:32:04.025Z",
+  "generatedAt": "2026-07-27T04:42:00.123Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -178,8 +178,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-19-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "19 Total Battle: War Strategy • 4X • 翻修 4.1 star",
+      "id": "hot50-20-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "20 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -202,8 +202,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-40-snake-clash-io-4-5-star-pw",
-      "name": "40 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-42-snake-clash-io-4-5-star-pw",
+      "name": "42 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
@@ -226,16 +226,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-cookierun-kingdom-4-7-star-pw",
-      "name": "CookieRun: Kingdom 4.7 star",
+      "id": "hot50-44-royal-kingdom-4-6-star-pw",
+      "name": "44 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-cookierun-kingdom-pw",
-      "name": "图标图片“CookieRun: Kingdom”",
+      "id": "hot50-royal-kingdom-4-6-star-pw",
+      "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
