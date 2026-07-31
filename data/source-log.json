@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T04:11:07.535Z",
+  "generatedAt": "2026-07-31T04:28:24.739Z",
   "entries": [
     {
       "source": "AppMagic",
@@ -28,7 +28,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 26
     },
     {
       "source": "APKCombo strategy playwright",
@@ -39,7 +39,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 8
+      "extracted": 6
     },
     {
       "source": "APKCombo strategy",
