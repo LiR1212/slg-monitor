@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:35:31.080Z",
+  "generatedAt": "2026-08-04T04:18:05.181Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -154,35 +154,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-27-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "27 Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "id": "hot50-26-kingshot-4-4-star-pw",
+      "name": "26 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-pw",
-      "name": "Total Battle: War Strategy",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-30-kingshot-4-4-star-pw",
-      "name": "30 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -190,7 +166,7 @@
       "name": "Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -198,12 +174,36 @@
       "name": "Kingshot",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-30-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "30 Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-total-battle-war-strategy-pw",
+      "name": "Total Battle: War Strategy",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-40-snake-clash-io-4-5-star-pw",
-      "name": "40 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-39-snake-clash-io-4-5-star-pw",
+      "name": "39 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
@@ -226,16 +226,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-45-castle-busters-3-9-star-pw",
-      "name": "45 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.9 star",
+      "id": "hot50-40-castle-busters-3-8-star-pw",
+      "name": "40 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-3-9-star-pw",
-      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.9 star",
+      "id": "hot50-castle-busters-3-8-star-pw",
+      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
