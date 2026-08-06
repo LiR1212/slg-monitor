@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:16:23.777Z",
+  "generatedAt": "2026-08-06T04:19:05.506Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -130,43 +130,19 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-28-kingshot-4-4-star-pw",
-      "name": "28 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "id": "hot50-20-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "20 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 17,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingshot-4-4-star-pw",
-      "name": "Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-kingshot-pw",
-      "name": "Kingshot",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-29-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "29 Total Battle: War Strategy • 4X • 对战 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -174,12 +150,36 @@
       "name": "Total Battle: War Strategy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-24-kingshot-4-4-star-pw",
+      "name": "24 Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-kingshot-4-4-star-pw",
+      "name": "Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-kingshot-pw",
+      "name": "Kingshot",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-35-snake-clash-io-4-5-star-pw",
-      "name": "35 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-29-snake-clash-io-4-5-star-pw",
+      "name": "29 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -202,8 +202,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-45-royal-kingdom-4-6-star-pw",
-      "name": "45 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "id": "hot50-38-royal-kingdom-4-6-star-pw",
+      "name": "38 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
@@ -226,16 +226,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
-      "name": "The Battle of Polytopia • 4X 4.4 star",
+      "id": "hot50-42-castle-busters-3-7-star-pw",
+      "name": "42 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
+      "id": "hot50-castle-busters-3-7-star-pw",
+      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
