@@ -1,140 +1,36 @@
 {
-  "generatedAt": "2026-08-06T04:19:05.506Z",
+  "generatedAt": "2026-08-07T03:54:28.394Z",
   "candidates": [
     {
-      "id": "hot50-clash-of-clans-4-5-star-pw",
-      "name": "部落冲突 (Clash of Clans) • 建造与对战 4.5 star",
+      "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
+      "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 1,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "播放《部落冲突 (Clash of Clans)》",
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 2,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "部落冲突 (Clash of Clans)",
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 3,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-4-4-star-pw",
-      "name": "Clash Royale • 塔防 4.4 star",
+      "id": "hot50-21-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "21 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-royale-pw",
-      "name": "播放《Clash Royale》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 5,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-royale-pw",
-      "name": "Clash Royale",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 6,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-dragon-ball-legends-4-3-star-pw",
-      "name": "DRAGON BALL LEGENDS 动作 • 角色扮演 4.3 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 7,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-dragon-ball-legends-pw",
-      "name": "播放《DRAGON BALL LEGENDS》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 8,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-dragon-ball-legends-pw",
-      "name": "DRAGON BALL LEGENDS",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 9,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-evony-the-king-s-return-4x-4-0-star-pw",
-      "name": "Evony: The King's Return • 4X 4.0 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-evony-the-king-s-return-pw",
-      "name": "Evony: The King's Return",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-cookierun-kingdom-4-7-star-pw",
-      "name": "CookieRun: Kingdom 角色扮演 • 动作 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-cookierun-kingdom-pw",
-      "name": "播放《CookieRun: Kingdom》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-cookierun-kingdom-pw",
-      "name": "CookieRun: Kingdom",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-age-of-apes-4x-4-6-star-pw",
-      "name": "Age of Apes: 猿族时代 • 4X 4.6 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-age-of-apes-pw",
-      "name": "Age of Apes: 猿族时代",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-20-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "20 Total Battle: War Strategy • 4X • 翻修 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -142,7 +38,7 @@
       "name": "Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
+      "rank": 5,
       "listType": "hot50"
     },
     {
@@ -150,23 +46,23 @@
       "name": "Total Battle: War Strategy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 6,
       "listType": "hot50"
     },
     {
-      "id": "hot50-24-kingshot-4-4-star-pw",
-      "name": "24 Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "id": "hot50-28-kingshot-4-4-star-pw",
+      "name": "28 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 7,
       "listType": "hot50"
     },
     {
       "id": "hot50-kingshot-4-4-star-pw",
-      "name": "Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "name": "Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 8,
       "listType": "hot50"
     },
     {
@@ -174,15 +70,15 @@
       "name": "Kingshot",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 9,
       "listType": "hot50"
     },
     {
-      "id": "hot50-29-snake-clash-io-4-5-star-pw",
-      "name": "29 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-34-snake-clash-io-4-5-star-pw",
+      "name": "34 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 10,
       "listType": "hot50"
     },
     {
@@ -190,7 +86,7 @@
       "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 11,
       "listType": "hot50"
     },
     {
@@ -198,15 +94,15 @@
       "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 12,
       "listType": "hot50"
     },
     {
-      "id": "hot50-38-royal-kingdom-4-6-star-pw",
-      "name": "38 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "id": "hot50-44-royal-kingdom-4-6-star-pw",
+      "name": "44 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 13,
       "listType": "hot50"
     },
     {
@@ -214,7 +110,7 @@
       "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 14,
       "listType": "hot50"
     },
     {
@@ -222,23 +118,119 @@
       "name": "Royal Kingdom",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-cookierun-kingdom-4-7-star-pw",
+      "name": "CookieRun: Kingdom 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-cookierun-kingdom-pw",
+      "name": "图标图片“CookieRun: Kingdom”",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-cookierun-kingdom-pw",
+      "name": "CookieRun: Kingdom",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 18,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-kingshot-4-4-star-pw",
+      "name": "Kingshot • 塔防 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-onestate-rp-role-play-life-3-9-star-pw",
+      "name": "OneState RP - Role Play Life 冒险 • 动作 3.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-onestate-rp-role-play-life-pw",
+      "name": "播放《OneState RP - Role Play Life》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-onestate-rp-role-play-life-pw",
+      "name": "OneState RP - Role Play Life",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-pw",
+      "name": "播放《蛇冲突 (Snake Clash)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-4-4-star-pw",
+      "name": "Clash Royale • 塔防 • 多人 • 皇室 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "Clash Royale",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-4-5-star-pw",
+      "name": "部落冲突 (Clash of Clans) • 建造与对战 • 休闲 • 中世纪幻想 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-pw",
+      "name": "播放《部落冲突 (Clash of Clans)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-42-castle-busters-3-7-star-pw",
-      "name": "42 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.7 star",
+      "id": "hot50-clash-of-clans-pw",
+      "name": "部落冲突 (Clash of Clans)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-3-7-star-pw",
-      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
       "listType": "hot50"
     }
   ],
@@ -246,7 +238,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 29
     },
     {
       "source": "APKCombo strategy playwright",
