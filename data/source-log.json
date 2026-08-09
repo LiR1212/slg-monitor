@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:57:26.131Z",
+  "generatedAt": "2026-08-09T03:04:18.839Z",
   "entries": [
     {
       "source": "AppMagic",
@@ -50,7 +50,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 1,
       "newLaunch": 0
     }
   ]

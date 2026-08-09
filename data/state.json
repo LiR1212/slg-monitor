@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T02:57:26.131Z",
+  "generatedAt": "2026-08-09T03:04:18.839Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2276,6 +2276,36 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-risk-of-war-wartime-glory-2026-08-09",
+      "name": "播放《Risk of war - Wartime Glory》",
+      "alias": "播放《Risk of war - Wartime Glory》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-08-09",
+      "heatScore": 28,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2450,7 +2480,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-08-08T02:57:26.131Z",
+      "generatedAt": "2026-08-09T03:04:18.839Z",
       "range": {
         "start": "2026-07-27",
         "end": "2026-08-02",
@@ -2466,7 +2496,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-08-08T02:57:26.131Z",
+      "generatedAt": "2026-08-09T03:04:18.839Z",
       "range": {
         "start": "2026-07-01",
         "end": "2026-07-31",
@@ -2534,7 +2564,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 1,
       "newLaunch": 0
     }
   ],
