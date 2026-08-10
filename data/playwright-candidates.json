@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T03:04:18.775Z",
+  "generatedAt": "2026-08-10T03:14:34.476Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -114,8 +114,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-14-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "14 Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "id": "hot50-20-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "20 Total Battle: War Strategy • 4X • 对战 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
@@ -162,8 +162,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-28-snake-clash-io-4-5-star-pw",
-      "name": "28 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-24-snake-clash-io-4-5-star-pw",
+      "name": "24 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
@@ -186,35 +186,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-41-royal-kingdom-4-6-star-pw",
-      "name": "41 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-4-6-star-pw",
-      "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-pw",
-      "name": "Royal Kingdom",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -222,7 +198,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -230,12 +206,36 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
+      "rank": 26,
       "listType": "hot50"
     },
     {
       "id": "hot50-cookierun-kingdom-4-7-star-pw",
       "name": "CookieRun: Kingdom 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-cookierun-kingdom-pw",
+      "name": "图标图片“CookieRun: Kingdom”",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-supercell-10-pw",
+      "name": "Clash Royale Supercell • 所有年满 10 周岁的用户 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-supercell-10-pw",
+      "name": "Clash Royale Supercell • 所有年满 10 周岁的用户",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
