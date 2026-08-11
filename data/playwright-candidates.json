@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:14:34.476Z",
+  "generatedAt": "2026-08-11T03:06:34.672Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -114,8 +114,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-20-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "20 Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "id": "hot50-22-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "22 Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
@@ -123,7 +123,7 @@
     },
     {
       "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "name": "Total Battle: War Strategy • 4X • 翻修 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -138,8 +138,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-22-kingshot-4-4-star-pw",
-      "name": "22 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
+      "id": "hot50-24-kingshot-4-4-star-pw",
+      "name": "24 Kingshot • 塔防 • 单人 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
@@ -162,8 +162,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-24-snake-clash-io-4-5-star-pw",
-      "name": "24 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-25-snake-clash-io-4-5-star-pw",
+      "name": "25 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
@@ -240,6 +240,22 @@
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
       "listType": "hot50"
+    },
+    {
+      "id": "newLaunch-language-pw",
+      "name": "Language",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 1,
+      "listType": "newLaunch"
+    },
+    {
+      "id": "newLaunch-clash-of-clans-500-m-pw",
+      "name": "部落冲突 (Clash of Clans) 500 M+",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 2,
+      "listType": "newLaunch"
     }
   ],
   "logs": [
@@ -251,7 +267,7 @@
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 0
+      "extracted": 2
     }
   ]
 }
