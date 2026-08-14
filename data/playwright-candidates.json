@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T03:29:02.377Z",
+  "generatedAt": "2026-08-14T03:26:44.918Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -114,35 +114,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-25-snake-clash-io-4-5-star-pw",
-      "name": "25 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-17-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "17 Total Battle: War Strategy • 4X • 对战 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-io-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-26-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "26 Total Battle: War Strategy • 4X • 对战 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
       "listType": "hot50"
     },
     {
@@ -150,12 +126,36 @@
       "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 16,
       "listType": "hot50"
     },
     {
       "id": "hot50-total-battle-war-strategy-pw",
       "name": "Total Battle: War Strategy",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-26-snake-clash-io-4-5-star-pw",
+      "name": "26 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 18,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-io-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-pw",
+      "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -226,16 +226,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-supercell-10-pw",
-      "name": "Clash Royale Supercell • 所有年满 10 周岁的用户 应用内购商品",
+      "id": "hot50-my-talking-angela-2-4-5-star-pw",
+      "name": "My Talking Angela 2 休闲 • 模拟 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-supercell-10-pw",
-      "name": "Clash Royale Supercell • 所有年满 10 周岁的用户",
+      "id": "hot50-my-talking-angela-2-pw",
+      "name": "My Talking Angela 2",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
