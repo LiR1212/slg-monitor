@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:16:06.658Z",
+  "generatedAt": "2026-08-16T02:23:14.570Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -114,8 +114,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-21-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "21 Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "id": "hot50-23-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "23 Total Battle: War Strategy • 4X • 对战 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
@@ -138,8 +138,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-26-snake-clash-io-4-5-star-pw",
-      "name": "26 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-40-snake-clash-io-4-5-star-pw",
+      "name": "40 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
@@ -162,24 +162,24 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-34-kingshot-4-4-star-pw",
-      "name": "34 Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "id": "hot50-45-castle-busters-3-5-star-pw",
+      "name": "45 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingshot-4-4-star-pw",
-      "name": "Kingshot • 塔防 • 单人 • 中世纪幻想 4.4 star",
+      "id": "hot50-castle-busters-3-5-star-pw",
+      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingshot-pw",
-      "name": "Kingshot",
+      "id": "hot50-castle-busters-pw",
+      "name": "Castle Busters",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -226,6 +226,22 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-tasty-merge-cooking-tales-pw",
+      "name": "Tasty Merge: Cooking Tales 新 • 休闲",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-tasty-merge-cooking-tales-pw",
+      "name": "Tasty Merge: Cooking Tales",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 30,
+      "listType": "hot50"
+    },
+    {
       "id": "newLaunch-language-pw",
       "name": "Language",
       "source": "APKCombo strategy playwright",
@@ -246,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 28
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
