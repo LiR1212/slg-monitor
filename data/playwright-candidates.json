@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:21:55.419Z",
+  "generatedAt": "2026-08-18T02:17:54.022Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -114,35 +114,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-39-snake-clash-io-4-5-star-pw",
-      "name": "39 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-io-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
+      "rank": 15,
       "listType": "hot50"
     },
     {
@@ -150,7 +126,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 16,
       "listType": "hot50"
     },
     {
@@ -158,7 +134,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -166,7 +142,7 @@
       "name": "CookieRun: Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 18,
       "listType": "hot50"
     },
     {
@@ -174,7 +150,7 @@
       "name": "图标图片“CookieRun: Kingdom”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -182,7 +158,7 @@
       "name": "Tasty Merge: Cooking Tales 新 • 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 20,
       "listType": "hot50"
     },
     {
@@ -190,23 +166,39 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-io-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-pw",
+      "name": "播放《蛇冲突 (Snake Clash)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-pw",
+      "name": "蛇冲突 (Snake Clash)",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-tom-friends-4-4-star-pw",
-      "name": "My Talking Tom Friends 休闲 • 模拟 4.4 star",
+      "id": "hot50-clash-royale-4-4-star-pw",
+      "name": "Clash Royale • 塔防 • 多人 • 皇室 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-my-talking-tom-friends-pw",
-      "name": "My Talking Tom Friends",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -230,7 +222,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 26
+      "extracted": 25
     },
     {
       "source": "APKCombo strategy playwright",
