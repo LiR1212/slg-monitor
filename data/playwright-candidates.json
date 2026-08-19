@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:17:54.022Z",
+  "generatedAt": "2026-08-19T02:20:41.559Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -194,14 +194,6 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-4-4-star-pw",
-      "name": "Clash Royale • 塔防 • 多人 • 皇室 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
       "id": "newLaunch-language-pw",
       "name": "Language",
       "source": "APKCombo strategy playwright",
@@ -222,7 +214,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 25
+      "extracted": 24
     },
     {
       "source": "APKCombo strategy playwright",
