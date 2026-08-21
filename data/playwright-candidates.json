@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T02:19:51.902Z",
+  "generatedAt": "2026-08-21T02:25:11.915Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -114,11 +114,27 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-age-of-apes-4x-4-6-star-pw",
+      "name": "Age of Apes: 猿族时代 • 4X 4.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-age-of-apes-pw",
+      "name": "Age of Apes: 猿族时代",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -126,7 +142,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 18,
       "listType": "hot50"
     },
     {
@@ -134,7 +150,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -142,7 +158,7 @@
       "name": "CookieRun: Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
+      "rank": 20,
       "listType": "hot50"
     },
     {
@@ -150,15 +166,15 @@
       "name": "图标图片“CookieRun: Kingdom”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 21,
       "listType": "hot50"
     },
     {
-      "id": "hot50-tasty-merge-cooking-tales-pw",
-      "name": "Tasty Merge: Cooking Tales 新 • 休闲",
+      "id": "hot50-tasty-merge-cooking-tales-3-0-star-pw",
+      "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.0 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -166,7 +182,7 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -174,7 +190,7 @@
       "name": "蛇冲突 (Snake Clash) 街机 • 动作 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -182,7 +198,7 @@
       "name": "播放《蛇冲突 (Snake Clash)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -190,7 +206,23 @@
       "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "Total Battle: War Strategy • 4X 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-total-battle-war-strategy-pw",
+      "name": "Total Battle: War Strategy",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
       "listType": "hot50"
     },
     {
@@ -214,7 +246,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 24
+      "extracted": 28
     },
     {
       "source": "APKCombo strategy playwright",
