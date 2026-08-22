@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T02:25:11.915Z",
+  "generatedAt": "2026-08-22T02:17:16.513Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -170,11 +170,59 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-tasty-merge-cooking-tales-3-0-star-pw",
-      "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.0 star",
+      "id": "hot50-warframe-digital-extremes-17-pw",
+      "name": "Warframe Digital Extremes • 年满 17 周岁的成年人 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warframe-digital-extremes-17-pw",
+      "name": "Warframe Digital Extremes • 年满 17 周岁的成年人",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warframe-pw",
+      "name": "Warframe",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-dragon-city-mobile-adventure-social-point-pw",
+      "name": "Dragon City: Mobile Adventure Social Point • 适合所有人 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-dragon-city-mobile-adventure-social-point-pw",
+      "name": "Dragon City: Mobile Adventure Social Point • 适合所有人",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-dragon-city-mobile-adventure-pw",
+      "name": "Dragon City: Mobile Adventure",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-tasty-merge-cooking-tales-3-3-star-pw",
+      "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.3 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
       "listType": "hot50"
     },
     {
@@ -182,47 +230,15 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 • 动作 4.5 star",
+      "id": "hot50-my-talking-angela-2-4-5-star-pw",
+      "name": "My Talking Angela 2 休闲 • 模拟 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "播放《蛇冲突 (Snake Clash)》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-pw",
-      "name": "Total Battle: War Strategy",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -246,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 28
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
