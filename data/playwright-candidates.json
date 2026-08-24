@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:25:49.656Z",
+  "generatedAt": "2026-08-24T02:24:34.369Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -130,11 +130,35 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
+      "name": "The Battle of Polytopia • 4X 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "播放《The Battle of Polytopia》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 18,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "The Battle of Polytopia",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-cookierun-kingdom-4-7-star-pw",
       "name": "CookieRun: Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 20,
       "listType": "hot50"
     },
     {
@@ -142,7 +166,31 @@
       "name": "图标图片“CookieRun: Kingdom”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-massive-warfare-war-of-tanks-tinybytes-pw",
+      "name": "Massive Warfare: War of Tanks TinyBytes • 青少年 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-massive-warfare-war-of-tanks-tinybytes-pw",
+      "name": "Massive Warfare: War of Tanks TinyBytes • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-massive-warfare-war-of-tanks-pw",
+      "name": "Massive Warfare: War of Tanks",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -150,7 +198,7 @@
       "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.0 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -158,63 +206,7 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-my-talking-tom-friends-4-4-star-pw",
-      "name": "My Talking Tom Friends 休闲 • 模拟 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-my-talking-tom-friends-pw",
-      "name": "My Talking Tom Friends",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 • 动作 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "播放《蛇冲突 (Snake Clash)》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-pw",
-      "name": "Total Battle: War Strategy",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -238,7 +230,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 27
+      "extracted": 26
     },
     {
       "source": "APKCombo strategy playwright",
