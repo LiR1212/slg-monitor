@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-24T02:24:34.439Z",
+  "generatedAt": "2026-08-25T02:20:19.300Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2306,6 +2306,36 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-my-talking-angela-2-2026-08-25",
+      "name": "图标图片“My Talking Angela 2”",
+      "alias": "图标图片“My Talking Angela 2”",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "中世纪/奇幻战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-08-25",
+      "heatScore": 28,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2480,7 +2510,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-08-24T02:24:34.439Z",
+      "generatedAt": "2026-08-25T02:20:19.300Z",
       "range": {
         "start": "2026-08-17",
         "end": "2026-08-23",
@@ -2496,7 +2526,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-08-24T02:24:34.439Z",
+      "generatedAt": "2026-08-25T02:20:19.300Z",
       "range": {
         "start": "2026-07-01",
         "end": "2026-07-31",
@@ -2542,7 +2572,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 26
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
@@ -2553,7 +2583,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 6
+      "extracted": 7
     },
     {
       "source": "APKCombo strategy",
@@ -2564,7 +2594,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 1,
       "newLaunch": 0
     }
   ],

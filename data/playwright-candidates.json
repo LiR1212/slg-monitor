@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:24:34.369Z",
+  "generatedAt": "2026-08-25T02:20:19.225Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -130,24 +130,24 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
-      "name": "The Battle of Polytopia • 4X 4.4 star",
+      "id": "hot50-my-talking-angela-2-4-5-star-pw",
+      "name": "My Talking Angela 2 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 17,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
+      "id": "hot50-my-talking-angela-2-pw",
+      "name": "图标图片“My Talking Angela 2”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "The Battle of Polytopia",
+      "id": "hot50-my-talking-angela-2-pw",
+      "name": "My Talking Angela 2",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
@@ -170,35 +170,67 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-massive-warfare-war-of-tanks-tinybytes-pw",
-      "name": "Massive Warfare: War of Tanks TinyBytes • 青少年 应用内购商品",
+      "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
+      "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-massive-warfare-war-of-tanks-tinybytes-pw",
-      "name": "Massive Warfare: War of Tanks TinyBytes • 青少年",
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-massive-warfare-war-of-tanks-pw",
-      "name": "Massive Warfare: War of Tanks",
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-tasty-merge-cooking-tales-3-0-star-pw",
-      "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.0 star",
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-tasty-merge-cooking-tales-3-3-star-pw",
+      "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.3 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
       "listType": "hot50"
     },
     {
@@ -206,7 +238,7 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -230,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 26
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
