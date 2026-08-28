@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T11:05:21.354Z",
+  "generatedAt": "2026-08-28T12:38:14.813Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -130,51 +130,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-angela-2-4-5-star-pw",
-      "name": "My Talking Angela 2 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-my-talking-angela-2-pw",
-      "name": "图标图片“My Talking Angela 2”",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-my-talking-angela-2-pw",
-      "name": "My Talking Angela 2",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-cookierun-kingdom-4-7-star-pw",
-      "name": "CookieRun: Kingdom 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-cookierun-kingdom-pw",
-      "name": "图标图片“CookieRun: Kingdom”",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -182,7 +142,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 18,
       "listType": "hot50"
     },
     {
@@ -190,39 +150,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-injustice-2-warner-bros-international-ente-pw",
-      "name": "Injustice 2 Warner Bros. International Enterprises • 青少年 应用内购商品",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-injustice-2-warner-bros-international-ente-pw",
-      "name": "Injustice 2 Warner Bros. International Enterprises • 青少年",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warner-bros-international-enterprises-pw",
-      "name": "Warner Bros. International Enterprises • 青少年",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warner-bros-international-enterprises-pw",
-      "name": "Warner Bros. International Enterprises",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -230,12 +158,84 @@
       "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
+      "rank": 20,
       "listType": "hot50"
     },
     {
       "id": "hot50-tasty-merge-cooking-tales-pw",
       "name": "Tasty Merge: Cooking Tales",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
+      "name": "Fishing Clash: Sport Simulator 模拟 • 捕鱼 • 休闲 • 单人 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-fishing-clash-sport-simulator-pw",
+      "name": "播放《Fishing Clash: Sport Simulator》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-fishing-clash-sport-simulator-pw",
+      "name": "Fishing Clash: Sport Simulator",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-4-6-star-pw",
+      "name": "Merge Cooking® 模拟 • 设计 • 离线 • 单人 4.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-pw",
+      "name": "播放《Merge Cooking®》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
