@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:46:36.118Z",
+  "generatedAt": "2026-08-30T06:25:04.119Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -130,8 +130,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-8-evony-the-king-s-return-4x-4-0-star-pw",
-      "name": "8 Evony: The King's Return • 4X • 手枪 4.0 star",
+      "id": "hot50-3-evony-the-king-s-return-4x-4-0-star-pw",
+      "name": "3 Evony: The King's Return • 4X • 益智 4.0 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 17,
@@ -139,7 +139,7 @@
     },
     {
       "id": "hot50-evony-the-king-s-return-4x-4-0-star-pw",
-      "name": "Evony: The King's Return • 4X • 手枪 4.0 star",
+      "name": "Evony: The King's Return • 4X • 益智 4.0 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
@@ -186,59 +186,43 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-war-and-peace-civil-war-erepublik-labs-10-pw",
-      "name": "War and Peace: Civil War Erepublik Labs • 所有年满 10 周岁的用户 应用内购商品",
+      "id": "hot50-astro-arena-3vs3-battle-pvp-krafton-inc-10-pw",
+      "name": "Astro Arena : 3vs3 Battle PvP KRAFTON, Inc. • 所有年满 10 周岁的用户",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-war-and-peace-civil-war-erepublik-labs-10-pw",
-      "name": "War and Peace: Civil War Erepublik Labs • 所有年满 10 周岁的用户",
+      "id": "hot50-astro-arena-3vs3-battle-pvp-pw",
+      "name": "Astro Arena : 3vs3 Battle PvP",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-war-and-peace-civil-war-pw",
-      "name": "War and Peace: Civil War",
+      "id": "hot50-plants-vs-zombies-3-6-star-pw",
+      "name": "Plants vs. Zombies™ • 塔防 3.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
-      "name": "Fishing Clash: Sport Simulator 模拟 • 捕鱼 4.7 star",
+      "id": "hot50-plants-vs-zombies-pw",
+      "name": "播放《Plants vs. Zombies™》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "播放《Fishing Clash: Sport Simulator》",
+      "id": "hot50-plants-vs-zombies-pw",
+      "name": "Plants vs. Zombies™",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "Fishing Clash: Sport Simulator",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-io-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -262,7 +246,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 28
     },
     {
       "source": "APKCombo strategy playwright",
