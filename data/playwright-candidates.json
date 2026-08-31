@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:25:04.119Z",
+  "generatedAt": "2026-08-31T06:52:11.275Z",
   "candidates": [
     {
       "id": "hot50-clash-of-clans-4-5-star-pw",
@@ -146,11 +146,35 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-40-warline-sniper-strike-4x-4-9-star-pw",
+      "name": "40 Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-4x-4-9-star-pw",
+      "name": "Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-pw",
+      "name": "Warline: Sniper Strike",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -158,7 +182,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -166,7 +190,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -174,7 +198,7 @@
       "name": "Tasty Merge: Cooking Tales 新 • 休闲 3.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -182,47 +206,39 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-astro-arena-3vs3-battle-pvp-krafton-inc-10-pw",
-      "name": "Astro Arena : 3vs3 Battle PvP KRAFTON, Inc. • 所有年满 10 周岁的用户",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-astro-arena-3vs3-battle-pvp-pw",
-      "name": "Astro Arena : 3vs3 Battle PvP",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-plants-vs-zombies-3-6-star-pw",
-      "name": "Plants vs. Zombies™ • 塔防 3.6 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-plants-vs-zombies-pw",
-      "name": "播放《Plants vs. Zombies™》",
+      "id": "hot50-nstage-pw",
+      "name": "我的家居设计 - 现代城市 NSTAGE • 适合所有人 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-plants-vs-zombies-pw",
-      "name": "Plants vs. Zombies™",
+      "id": "hot50-nstage-pw",
+      "name": "我的家居设计 - 现代城市 NSTAGE • 适合所有人",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-nstage-pw",
+      "name": "NSTAGE • 适合所有人",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-nstage-pw",
+      "name": "NSTAGE",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -246,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 28
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
