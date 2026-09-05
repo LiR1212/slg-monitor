@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:48:29.189Z",
+  "generatedAt": "2026-09-05T05:31:08.127Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-6-star-pw",
@@ -98,8 +98,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-7-evony-the-king-s-return-4x-4-1-star-pw",
-      "name": "7 Evony: The King's Return • 4X • 益智 4.1 star",
+      "id": "hot50-3-evony-the-king-s-return-4x-4-1-star-pw",
+      "name": "3 Evony: The King's Return • 4X • 益智 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-16-warline-sniper-strike-4x-4-9-star-pw",
-      "name": "16 Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
+      "id": "hot50-39-warline-sniper-strike-4x-4-9-star-pw",
+      "name": "39 Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,35 +146,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-43-lordrush-4-4-star-pw",
-      "name": "43 Lordrush • 塔防 • 沉浸式 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lordrush-4-4-star-pw",
-      "name": "Lordrush • 塔防 • 沉浸式 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lordrush-pw",
-      "name": "Lordrush",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -182,7 +158,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 20,
       "listType": "hot50"
     },
     {
@@ -190,15 +166,15 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 21,
       "listType": "hot50"
     },
     {
-      "id": "hot50-tasty-merge-cooking-tales-3-3-star-pw",
-      "name": "Tasty Merge: Cooking Tales 休闲 3.3 star",
+      "id": "hot50-tasty-merge-cooking-tales-3-6-star-pw",
+      "name": "Tasty Merge: Cooking Tales 休闲 3.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -206,39 +182,7 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-drive-ahead-fun-car-battles-dodreams-ltd-1-pw",
-      "name": "Drive Ahead! - Fun Car Battles Dodreams Ltd. • 所有年满 10 周岁的用户",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-drive-ahead-fun-car-battles-pw",
-      "name": "Drive Ahead! - Fun Car Battles",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
-      "name": "Fishing Clash: Sport Simulator 模拟 • 捕鱼 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "播放《Fishing Clash: Sport Simulator》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -262,7 +206,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 23
     },
     {
       "source": "APKCombo strategy playwright",
