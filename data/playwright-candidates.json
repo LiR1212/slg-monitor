@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T05:31:08.127Z",
+  "generatedAt": "2026-09-06T05:43:41.653Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-6-star-pw",
@@ -98,8 +98,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-3-evony-the-king-s-return-4x-4-1-star-pw",
-      "name": "3 Evony: The King's Return • 4X • 益智 4.1 star",
+      "id": "hot50-8-evony-the-king-s-return-4x-4-1-star-pw",
+      "name": "8 Evony: The King's Return • 4X • 手枪 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -107,7 +107,7 @@
     },
     {
       "id": "hot50-evony-the-king-s-return-4x-4-1-star-pw",
-      "name": "Evony: The King's Return • 4X • 益智 4.1 star",
+      "name": "Evony: The King's Return • 4X • 手枪 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 14,
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-39-warline-sniper-strike-4x-4-9-star-pw",
-      "name": "39 Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
+      "id": "hot50-34-warline-sniper-strike-4x-4-9-star-pw",
+      "name": "34 Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,11 +146,27 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-43-royal-kingdom-4-6-star-pw",
+      "name": "43 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-4-6-star-pw",
+      "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -158,7 +174,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -166,7 +182,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -174,7 +190,7 @@
       "name": "Tasty Merge: Cooking Tales 休闲 3.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -182,7 +198,39 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
       "listType": "hot50"
     },
     {
@@ -206,7 +254,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 23
+      "extracted": 29
     },
     {
       "source": "APKCombo strategy playwright",

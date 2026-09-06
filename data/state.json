@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T05:31:08.194Z",
+  "generatedAt": "2026-09-06T05:43:41.730Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2660,7 +2660,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-09-05T05:31:08.194Z",
+      "generatedAt": "2026-09-06T05:43:41.730Z",
       "range": {
         "start": "2026-08-24",
         "end": "2026-08-30",
@@ -2676,7 +2676,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-09-05T05:31:08.194Z",
+      "generatedAt": "2026-09-06T05:43:41.730Z",
       "range": {
         "start": "2026-07-01",
         "end": "2026-07-31",
@@ -2722,7 +2722,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 23
+      "extracted": 29
     },
     {
       "source": "APKCombo strategy playwright",
