@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T05:43:41.653Z",
+  "generatedAt": "2026-09-07T05:54:12.846Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-6-star-pw",
@@ -202,35 +202,43 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
-      "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
+      "id": "hot50-dragon-city-mobile-adventure-social-point-pw",
+      "name": "Dragon City: Mobile Adventure Social Point • 适合所有人 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
-      "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
+      "id": "hot50-dragon-city-mobile-adventure-social-point-pw",
+      "name": "Dragon City: Mobile Adventure Social Point • 适合所有人",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-wargaming-group-pw",
-      "name": "Wargaming Group • 青少年",
+      "id": "hot50-dragon-city-mobile-adventure-pw",
+      "name": "Dragon City: Mobile Adventure",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-wargaming-group-pw",
-      "name": "Wargaming Group",
+      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
+      "name": "Fishing Clash: Sport Simulator 模拟 • 捕鱼 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-fishing-clash-sport-simulator-pw",
+      "name": "播放《Fishing Clash: Sport Simulator》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -254,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 29
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",

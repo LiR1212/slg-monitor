@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T05:43:41.730Z",
+  "generatedAt": "2026-09-07T05:54:12.910Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2660,13 +2660,13 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-09-06T05:43:41.730Z",
+      "generatedAt": "2026-09-07T05:54:12.910Z",
       "range": {
-        "start": "2026-08-24",
-        "end": "2026-08-30",
-        "endExclusive": "2026-08-31"
+        "start": "2026-08-31",
+        "end": "2026-09-06",
+        "endExclusive": "2026-09-07"
       },
-      "triggerDate": "2026-08-31",
+      "triggerDate": "2026-09-07",
       "versionCount": 0,
       "activityCount": 0,
       "creativeCount": 0,
@@ -2676,22 +2676,19 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-09-06T05:43:41.730Z",
+      "generatedAt": "2026-09-07T05:54:12.910Z",
       "range": {
-        "start": "2026-07-01",
-        "end": "2026-07-31",
-        "endExclusive": "2026-08-01"
+        "start": "2026-08-01",
+        "end": "2026-08-31",
+        "endExclusive": "2026-09-01"
       },
-      "triggerDate": "2026-08-03",
-      "versionCount": 1,
-      "activityCount": 1,
-      "creativeCount": 2,
-      "gameCount": 2,
-      "highlights": [
-        "Last War: Survival Game 有新增版本、活动或素材记录",
-        "Kingshot 有新增版本、活动或素材记录"
-      ],
-      "summary": "本期覆盖 Last War: Survival Game、Kingshot。"
+      "triggerDate": "2026-09-07",
+      "versionCount": 0,
+      "activityCount": 0,
+      "creativeCount": 0,
+      "gameCount": 0,
+      "highlights": [],
+      "summary": "本期暂无新增记录。"
     }
   },
   "sourceLog": [
@@ -2722,7 +2719,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 29
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
@@ -2733,7 +2730,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 5
+      "extracted": 6
     },
     {
       "source": "APKCombo strategy",

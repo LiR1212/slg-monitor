@@ -1,19 +1,16 @@
 {
   "title": "月报",
-  "generatedAt": "2026-09-06T05:43:41.730Z",
+  "generatedAt": "2026-09-07T05:54:12.910Z",
   "range": {
-    "start": "2026-07-01",
-    "end": "2026-07-31",
-    "endExclusive": "2026-08-01"
+    "start": "2026-08-01",
+    "end": "2026-08-31",
+    "endExclusive": "2026-09-01"
   },
-  "triggerDate": "2026-08-03",
-  "versionCount": 1,
-  "activityCount": 1,
-  "creativeCount": 2,
-  "gameCount": 2,
-  "highlights": [
-    "Last War: Survival Game 有新增版本、活动或素材记录",
-    "Kingshot 有新增版本、活动或素材记录"
-  ],
-  "summary": "本期覆盖 Last War: Survival Game、Kingshot。"
+  "triggerDate": "2026-09-07",
+  "versionCount": 0,
+  "activityCount": 0,
+  "creativeCount": 0,
+  "gameCount": 0,
+  "highlights": [],
+  "summary": "本期暂无新增记录。"
 }
