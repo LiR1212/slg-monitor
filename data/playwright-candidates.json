@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:54:12.846Z",
+  "generatedAt": "2026-09-08T05:47:07.319Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-6-star-pw",
@@ -98,43 +98,19 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-8-evony-the-king-s-return-4x-4-1-star-pw",
-      "name": "8 Evony: The King's Return • 4X • 手枪 4.1 star",
+      "id": "hot50-18-warline-sniper-strike-4x-4-8-star-pw",
+      "name": "18 Warline: Sniper Strike • 4X • 单人 • 陆军 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
       "listType": "hot50"
     },
     {
-      "id": "hot50-evony-the-king-s-return-4x-4-1-star-pw",
-      "name": "Evony: The King's Return • 4X • 手枪 4.1 star",
+      "id": "hot50-warline-sniper-strike-4x-4-8-star-pw",
+      "name": "Warline: Sniper Strike • 4X • 单人 • 陆军 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 14,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-evony-the-king-s-return-pw",
-      "name": "Evony: The King's Return",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-34-warline-sniper-strike-4x-4-9-star-pw",
-      "name": "34 Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warline-sniper-strike-4x-4-9-star-pw",
-      "name": "Warline: Sniper Strike • 4X • 单人 • 陆军 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -142,23 +118,55 @@
       "name": "Warline: Sniper Strike",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-43-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "43 Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
+      "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-total-battle-war-strategy-pw",
+      "name": "Total Battle: War Strategy",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
       "listType": "hot50"
     },
     {
-      "id": "hot50-43-royal-kingdom-4-6-star-pw",
-      "name": "43 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "id": "hot50-45-lordrush-4-4-star-pw",
+      "name": "45 Lordrush • 塔防 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-royal-kingdom-4-6-star-pw",
-      "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "id": "hot50-lordrush-4-4-star-pw",
+      "name": "Lordrush • 塔防 • 沉浸式 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-lordrush-pw",
+      "name": "Lordrush",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -166,7 +174,7 @@
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -174,7 +182,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -182,15 +190,15 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-tasty-merge-cooking-tales-3-6-star-pw",
-      "name": "Tasty Merge: Cooking Tales 休闲 3.6 star",
+      "id": "hot50-tasty-merge-cooking-tales-3-3-star-pw",
+      "name": "Tasty Merge: Cooking Tales 休闲 3.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -198,76 +206,44 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-dragon-city-mobile-adventure-social-point-pw",
-      "name": "Dragon City: Mobile Adventure Social Point • 适合所有人 应用内购商品",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-dragon-city-mobile-adventure-social-point-pw",
-      "name": "Dragon City: Mobile Adventure Social Point • 适合所有人",
+      "id": "hot50-doomsday-the-seven-deadly-sins-4x-4-5-star-pw",
+      "name": "Doomsday:The Seven Deadly Sins • 4X 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-dragon-city-mobile-adventure-pw",
-      "name": "Dragon City: Mobile Adventure",
+      "id": "hot50-doomsday-the-seven-deadly-sins-pw",
+      "name": "播放《Doomsday:The Seven Deadly Sins》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
-      "name": "Fishing Clash: Sport Simulator 模拟 • 捕鱼 4.7 star",
+      "id": "hot50-doomsday-the-seven-deadly-sins-pw",
+      "name": "Doomsday:The Seven Deadly Sins",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "播放《Fishing Clash: Sport Simulator》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
-      "listType": "hot50"
-    },
-    {
-      "id": "newLaunch-language-pw",
-      "name": "Language",
-      "source": "APKCombo strategy playwright",
-      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
-      "rank": 1,
-      "listType": "newLaunch"
-    },
-    {
-      "id": "newLaunch-clash-of-clans-500-m-pw",
-      "name": "部落冲突 (Clash of Clans) 500 M+",
-      "source": "APKCombo strategy playwright",
-      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
-      "rank": 2,
-      "listType": "newLaunch"
     }
   ],
   "logs": [
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 29
     },
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 2
+      "extracted": 0
     }
   ]
 }

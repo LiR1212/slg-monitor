@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T05:54:12.910Z",
+  "generatedAt": "2026-09-08T05:47:07.387Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2486,6 +2486,36 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-doomsday-the-seven-deadly-sins-2026-09-08",
+      "name": "播放《Doomsday:The Seven Deadly Sins》",
+      "alias": "播放《Doomsday:The Seven Deadly Sins》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "末日生存",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "生存",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-09-08",
+      "heatScore": 32,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2660,7 +2690,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-09-07T05:54:12.910Z",
+      "generatedAt": "2026-09-08T05:47:07.387Z",
       "range": {
         "start": "2026-08-31",
         "end": "2026-09-06",
@@ -2676,7 +2706,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-09-07T05:54:12.910Z",
+      "generatedAt": "2026-09-08T05:47:07.387Z",
       "range": {
         "start": "2026-08-01",
         "end": "2026-08-31",
@@ -2719,12 +2749,12 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 29
     },
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 2
+      "extracted": 0
     },
     {
       "source": "Google Play games",
@@ -2736,12 +2766,12 @@
       "source": "APKCombo strategy",
       "url": "https://apkcombo.com/zh/game/strategy/",
       "ok": false,
-      "message": "HTTP 404"
+      "message": "HTTP 403"
     },
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 1,
       "newLaunch": 0
     }
   ],
