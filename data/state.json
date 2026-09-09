@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T05:47:07.387Z",
+  "generatedAt": "2026-09-09T05:51:18.846Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2690,7 +2690,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-09-08T05:47:07.387Z",
+      "generatedAt": "2026-09-09T05:51:18.846Z",
       "range": {
         "start": "2026-08-31",
         "end": "2026-09-06",
@@ -2706,7 +2706,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-09-08T05:47:07.387Z",
+      "generatedAt": "2026-09-09T05:51:18.846Z",
       "range": {
         "start": "2026-08-01",
         "end": "2026-08-31",
@@ -2749,29 +2749,29 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 29
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 0
+      "extracted": 3
     },
     {
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 6
+      "extracted": 5
     },
     {
       "source": "APKCombo strategy",
       "url": "https://apkcombo.com/zh/game/strategy/",
       "ok": false,
-      "message": "HTTP 403"
+      "message": "HTTP 404"
     },
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 1,
+      "hot": 0,
       "newLaunch": 0
     }
   ],
