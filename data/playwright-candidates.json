@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:45:47.175Z",
+  "generatedAt": "2026-09-11T05:45:27.312Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-6-star-pw",
@@ -98,8 +98,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-31-royal-kingdom-4-6-star-pw",
-      "name": "31 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "id": "hot50-34-royal-kingdom-4-6-star-pw",
+      "name": "34 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -114,16 +114,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-38-castle-busters-3-7-star-pw",
-      "name": "38 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.7 star",
+      "id": "hot50-41-castle-busters-3-8-star-pw",
+      "name": "41 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-3-7-star-pw",
-      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.7 star",
+      "id": "hot50-castle-busters-3-8-star-pw",
+      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -138,8 +138,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-42-snake-clash-io-4-5-star-pw",
-      "name": "42 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
+      "id": "hot50-45-snake-clash-io-4-5-star-pw",
+      "name": "45 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
@@ -162,35 +162,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-45-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "45 Total Battle: War Strategy • 4X • 对战 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-4x-4-1-star-pw",
-      "name": "Total Battle: War Strategy • 4X • 对战 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-total-battle-war-strategy-pw",
-      "name": "Total Battle: War Strategy",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -198,7 +174,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -206,7 +182,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -214,7 +190,7 @@
       "name": "Tasty Merge: Cooking Tales 休闲 3.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -222,23 +198,23 @@
       "name": "Tasty Merge: Cooking Tales",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
-      "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
+      "id": "hot50-clash-of-clans-supercell-10-pw",
+      "name": "部落冲突 (Clash of Clans) Supercell • 所有年满 10 周岁的用户 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
+      "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
-      "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
+      "id": "hot50-clash-of-clans-supercell-10-pw",
+      "name": "部落冲突 (Clash of Clans) Supercell • 所有年满 10 周岁的用户",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -270,7 +246,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 27
     },
     {
       "source": "APKCombo strategy playwright",
