@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T05:33:28.618Z",
+  "generatedAt": "2026-09-13T05:52:41.635Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-6-star-pw",
@@ -98,24 +98,24 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-27-royal-kingdom-4-6-star-pw",
-      "name": "27 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "id": "hot50-33-royal-kingdom-4-7-star-pw",
+      "name": "33 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
       "listType": "hot50"
     },
     {
-      "id": "hot50-royal-kingdom-4-6-star-pw",
-      "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.6 star",
+      "id": "hot50-royal-kingdom-4-7-star-pw",
+      "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 14,
       "listType": "hot50"
     },
     {
-      "id": "hot50-34-castle-busters-3-8-star-pw",
-      "name": "34 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
+      "id": "hot50-40-castle-busters-3-8-star-pw",
+      "name": "40 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
@@ -138,51 +138,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
-      "name": "The Battle of Polytopia • 4X 4.4 star",
+      "id": "hot50-44-snake-clash-io-4-5-star-pw",
+      "name": "44 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "The Battle of Polytopia",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-days-after-zombie-survival-my-venture-capi-pw",
-      "name": "Days After: Zombie Survival MY. VENTURE CAPITAL LTD • 青少年 应用内购商品",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-days-after-zombie-survival-my-venture-capi-pw",
-      "name": "Days After: Zombie Survival MY. VENTURE CAPITAL LTD • 青少年",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-days-after-zombie-survival-pw",
-      "name": "Days After: Zombie Survival",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -190,15 +150,7 @@
       "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "播放《蛇冲突 (Snake Clash)》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -206,7 +158,63 @@
       "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
+      "name": "The Battle of Polytopia • 4X 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "播放《The Battle of Polytopia》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-the-battle-of-polytopia-pw",
+      "name": "The Battle of Polytopia",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
+      "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-wargaming-group-pw",
+      "name": "Wargaming Group",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -238,7 +246,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 26
+      "extracted": 27
     },
     {
       "source": "APKCombo strategy playwright",
