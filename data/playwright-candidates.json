@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T05:52:41.635Z",
+  "generatedAt": "2026-09-14T05:59:39.771Z",
   "candidates": [
     {
-      "id": "hot50-royal-kingdom-4-6-star-pw",
-      "name": "Royal Kingdom 4.6 star",
+      "id": "hot50-royal-kingdom-4-7-star-pw",
+      "name": "Royal Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 1,
@@ -98,75 +98,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-33-royal-kingdom-4-7-star-pw",
-      "name": "33 Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-4-7-star-pw",
-      "name": "Royal Kingdom 益智 • 三消冒险 • 休闲 • 离线 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-40-castle-busters-3-8-star-pw",
-      "name": "40 Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-3-8-star-pw",
-      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-pw",
-      "name": "Castle Busters",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-44-snake-clash-io-4-5-star-pw",
-      "name": "44 蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-io-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 13,
       "listType": "hot50"
     },
     {
@@ -174,7 +110,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 14,
       "listType": "hot50"
     },
     {
@@ -182,7 +118,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 15,
       "listType": "hot50"
     },
     {
@@ -190,7 +126,7 @@
       "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 16,
       "listType": "hot50"
     },
     {
@@ -198,7 +134,7 @@
       "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -206,7 +142,7 @@
       "name": "Wargaming Group • 青少年",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 18,
       "listType": "hot50"
     },
     {
@@ -214,7 +150,7 @@
       "name": "Wargaming Group",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -246,7 +182,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 27
+      "extracted": 19
     },
     {
       "source": "APKCombo strategy playwright",
