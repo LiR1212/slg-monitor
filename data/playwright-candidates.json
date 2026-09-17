@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T05:50:53.908Z",
+  "generatedAt": "2026-09-17T05:57:51.540Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-7-star-pw",
@@ -98,35 +98,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-41-lordrush-4-3-star-pw",
-      "name": "41 Lordrush • 塔防 • 沉浸式 4.3 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lordrush-4-3-star-pw",
-      "name": "Lordrush • 塔防 • 沉浸式 4.3 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lordrush-pw",
-      "name": "Lordrush",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-the-battle-of-polytopia-4x-4-4-star-pw",
       "name": "The Battle of Polytopia • 4X 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 13,
       "listType": "hot50"
     },
     {
@@ -134,7 +110,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 14,
       "listType": "hot50"
     },
     {
@@ -142,7 +118,7 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
+      "rank": 15,
       "listType": "hot50"
     },
     {
@@ -150,7 +126,7 @@
       "name": "Warframe Digital Extremes • 年满 17 周岁的成年人 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 16,
       "listType": "hot50"
     },
     {
@@ -158,7 +134,7 @@
       "name": "Warframe Digital Extremes • 年满 17 周岁的成年人",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -166,7 +142,55 @@
       "name": "Warframe",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 18,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-call-of-dragons-4x-4-5-star-pw",
+      "name": "Call of Dragons • 4X 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-call-of-dragons-pw",
+      "name": "播放《Call of Dragons》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-call-of-dragons-pw",
+      "name": "Call of Dragons",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-discounty-supermarket-manager-4-0-star-us--pw",
+      "name": "Discounty: Supermarket Manager 冒险 • 模拟 4.0 star US$12.99",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-discounty-supermarket-manager-pw",
+      "name": "播放《Discounty: Supermarket Manager》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-discounty-supermarket-manager-pw",
+      "name": "Discounty: Supermarket Manager",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -174,7 +198,7 @@
       "name": "蛇冲突 (Snake Clash) 街机 • 动作 • IO • 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -182,7 +206,7 @@
       "name": "播放《蛇冲突 (Snake Clash)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -190,15 +214,15 @@
       "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-3-9-star-pw",
-      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 3.9 star",
+      "id": "hot50-castle-busters-4-0-star-pw",
+      "name": "Castle Busters 动作 • 弹道射击 • 多人 • 竞技 4.0 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 28,
       "listType": "hot50"
     },
     {
@@ -206,7 +230,7 @@
       "name": "播放《Castle Busters》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 29,
       "listType": "hot50"
     },
     {
@@ -214,7 +238,7 @@
       "name": "Castle Busters",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -246,7 +270,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 27
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",

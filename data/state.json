@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T05:50:53.979Z",
+  "generatedAt": "2026-09-17T05:57:51.611Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2546,6 +2546,66 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-call-of-dragons-2026-09-17",
+      "name": "播放《Call of Dragons》",
+      "alias": "播放《Call of Dragons》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "中世纪/奇幻战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-09-17",
+      "heatScore": 32,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-discounty-supermarket-manager-2026-09-17",
+      "name": "播放《Discounty: Supermarket Manager》",
+      "alias": "播放《Discounty: Supermarket Manager》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-09-17",
+      "heatScore": 31,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2720,7 +2780,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-09-16T05:50:53.979Z",
+      "generatedAt": "2026-09-17T05:57:51.611Z",
       "range": {
         "start": "2026-09-07",
         "end": "2026-09-13",
@@ -2736,7 +2796,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-09-16T05:50:53.979Z",
+      "generatedAt": "2026-09-17T05:57:51.611Z",
       "range": {
         "start": "2026-08-01",
         "end": "2026-08-31",
@@ -2779,7 +2839,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 27
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
@@ -2790,7 +2850,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 7
+      "extracted": 10
     },
     {
       "source": "APKCombo strategy",
@@ -2801,7 +2861,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 2,
       "newLaunch": 0
     }
   ],
