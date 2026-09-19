@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:44:20.537Z",
+  "generatedAt": "2026-09-19T05:39:17.015Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-7-star-pw",
@@ -98,8 +98,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-45-lordrush-4-3-star-pw",
-      "name": "45 Lordrush 4.3 star",
+      "id": "hot50-43-lordrush-4-3-star-pw",
+      "name": "43 Lordrush 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -146,27 +146,91 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-warframe-digital-extremes-17-pw",
-      "name": "Warframe Digital Extremes • 年满 17 周岁的成年人 应用内购商品",
+      "id": "hot50-honor-of-kings-level-infinite-10-pw",
+      "name": "王者荣耀国际服（Honor of Kings） Level Infinite • 所有年满 10 周岁的用户 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-warframe-digital-extremes-17-pw",
-      "name": "Warframe Digital Extremes • 年满 17 周岁的成年人",
+      "id": "hot50-honor-of-kings-level-infinite-10-pw",
+      "name": "王者荣耀国际服（Honor of Kings） Level Infinite • 所有年满 10 周岁的用户",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
       "listType": "hot50"
     },
     {
-      "id": "hot50-warframe-pw",
-      "name": "Warframe",
+      "id": "hot50-honor-of-kings-pw",
+      "name": "王者荣耀国际服（Honor of Kings）",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-4-5-star-pw",
+      "name": "Merge Cooking® 模拟 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-pw",
+      "name": "播放《Merge Cooking®》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-pw",
+      "name": "Merge Cooking®",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-pw",
+      "name": "播放《蛇冲突 (Snake Clash)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-pw",
+      "name": "蛇冲突 (Snake Clash)",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-pw",
+      "name": "播放《部落冲突 (Clash of Clans)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
       "listType": "hot50"
     },
     {
@@ -198,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 21
+      "extracted": 29
     },
     {
       "source": "APKCombo strategy playwright",
