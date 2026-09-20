@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:39:17.073Z",
+  "generatedAt": "2026-09-20T05:57:43.688Z",
   "entries": [
     {
       "source": "AppMagic",
@@ -28,18 +28,18 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 29
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 3
+      "extracted": 1
     },
     {
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 8
+      "extracted": 10
     },
     {
       "source": "APKCombo strategy",
@@ -50,7 +50,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 1,
       "newLaunch": 0
     }
   ]
