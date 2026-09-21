@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T05:57:43.688Z",
+  "generatedAt": "2026-09-21T06:04:25.800Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2810,13 +2810,13 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-09-20T05:57:43.688Z",
+      "generatedAt": "2026-09-21T06:04:25.800Z",
       "range": {
-        "start": "2026-09-07",
-        "end": "2026-09-13",
-        "endExclusive": "2026-09-14"
+        "start": "2026-09-14",
+        "end": "2026-09-20",
+        "endExclusive": "2026-09-21"
       },
-      "triggerDate": "2026-09-14",
+      "triggerDate": "2026-09-21",
       "versionCount": 0,
       "activityCount": 0,
       "creativeCount": 0,
@@ -2826,7 +2826,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-09-20T05:57:43.688Z",
+      "generatedAt": "2026-09-21T06:04:25.800Z",
       "range": {
         "start": "2026-08-01",
         "end": "2026-08-31",
@@ -2869,18 +2869,18 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 24
     },
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 1
+      "extracted": 3
     },
     {
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 10
+      "extracted": 5
     },
     {
       "source": "APKCombo strategy",
@@ -2891,7 +2891,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 1,
+      "hot": 0,
       "newLaunch": 0
     }
   ],

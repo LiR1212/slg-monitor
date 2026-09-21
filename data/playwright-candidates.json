@@ -1,84 +1,12 @@
 {
-  "generatedAt": "2026-09-20T05:57:43.641Z",
+  "generatedAt": "2026-09-21T06:04:25.732Z",
   "candidates": [
-    {
-      "id": "hot50-zombie-for-real-pw",
-      "name": "Zombie For Real? 角色扮演",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 1,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-zombie-for-real-pw",
-      "name": "Zombie For Real?",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 2,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-blight-war-idle-rpg-pw",
-      "name": "Blight War: Idle RPG 冒险",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 3,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-blight-war-idle-rpg-pw",
-      "name": "Blight War: Idle RPG",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 4,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-supremacy-warhammer-40-000-pw",
-      "name": "Supremacy: Warhammer 40,000",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 5,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-supremacy-warhammer-40-000-pw",
-      "name": "播放《Supremacy: Warhammer 40,000》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 6,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-37-castle-busters-4-1-star-pw",
-      "name": "37 Castle Busters 动作 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 7,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-4-1-star-pw",
-      "name": "Castle Busters 动作 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 8,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-pw",
-      "name": "Castle Busters",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 9,
-      "listType": "hot50"
-    },
     {
       "id": "hot50-royal-kingdom-4-7-star-pw",
       "name": "Royal Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
+      "rank": 1,
       "listType": "hot50"
     },
     {
@@ -86,7 +14,7 @@
       "name": "图标图片“Royal Kingdom”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
+      "rank": 2,
       "listType": "hot50"
     },
     {
@@ -94,7 +22,7 @@
       "name": "Royal Kingdom",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
+      "rank": 3,
       "listType": "hot50"
     },
     {
@@ -102,7 +30,7 @@
       "name": "Clash Royale 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
+      "rank": 4,
       "listType": "hot50"
     },
     {
@@ -110,7 +38,7 @@
       "name": "图标图片“Clash Royale”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
+      "rank": 5,
       "listType": "hot50"
     },
     {
@@ -118,7 +46,7 @@
       "name": "Clash Royale",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
+      "rank": 6,
       "listType": "hot50"
     },
     {
@@ -126,7 +54,7 @@
       "name": "部落冲突 (Clash of Clans) 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 7,
       "listType": "hot50"
     },
     {
@@ -134,7 +62,7 @@
       "name": "图标图片“部落冲突 (Clash of Clans)”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 8,
       "listType": "hot50"
     },
     {
@@ -142,7 +70,7 @@
       "name": "部落冲突 (Clash of Clans)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
+      "rank": 9,
       "listType": "hot50"
     },
     {
@@ -150,7 +78,7 @@
       "name": "My Talking Angela 2 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 10,
       "listType": "hot50"
     },
     {
@@ -158,7 +86,7 @@
       "name": "图标图片“My Talking Angela 2”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 11,
       "listType": "hot50"
     },
     {
@@ -166,7 +94,31 @@
       "name": "My Talking Angela 2",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 12,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-33-castle-busters-4-1-star-pw",
+      "name": "33 Castle Busters 动作 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 13,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-4-1-star-pw",
+      "name": "Castle Busters 动作 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 14,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-pw",
+      "name": "Castle Busters",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
       "listType": "hot50"
     },
     {
@@ -174,7 +126,7 @@
       "name": "The Battle of Polytopia 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 16,
       "listType": "hot50"
     },
     {
@@ -182,7 +134,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -190,7 +142,31 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 18,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-war-and-peace-civil-war-erepublik-labs-10-pw",
+      "name": "War and Peace: Civil War Erepublik Labs • 所有年满 10 周岁的用户 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-war-and-peace-civil-war-erepublik-labs-10-pw",
+      "name": "War and Peace: Civil War Erepublik Labs • 所有年满 10 周岁的用户",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-war-and-peace-civil-war-pw",
+      "name": "War and Peace: Civil War",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -198,7 +174,7 @@
       "name": "王者荣耀国际服（Honor of Kings） Level Infinite • 所有年满 10 周岁的用户 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -206,7 +182,7 @@
       "name": "王者荣耀国际服（Honor of Kings） Level Infinite • 所有年满 10 周岁的用户",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -214,31 +190,7 @@
       "name": "王者荣耀国际服（Honor of Kings）",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
-      "name": "MWT: Tank Battles Artstorm FZE • 青少年 应用内购商品",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
-      "name": "MWT: Tank Battles Artstorm FZE • 青少年",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-mwt-tank-battles-pw",
-      "name": "MWT: Tank Battles",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -248,18 +200,34 @@
       "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
       "rank": 1,
       "listType": "newLaunch"
+    },
+    {
+      "id": "newLaunch-modern-warplanes-50-m-pw",
+      "name": "Modern Warplanes 50 M+",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 2,
+      "listType": "newLaunch"
+    },
+    {
+      "id": "newLaunch-modern-warplanes-icon-pw",
+      "name": "Modern Warplanes icon",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 3,
+      "listType": "newLaunch"
     }
   ],
   "logs": [
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 24
     },
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 1
+      "extracted": 3
     }
   ]
 }
