@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:04:25.732Z",
+  "generatedAt": "2026-09-22T05:58:50.977Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-7-star-pw",
@@ -50,35 +50,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-4-5-star-pw",
-      "name": "部落冲突 (Clash of Clans) 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 7,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "图标图片“部落冲突 (Clash of Clans)”",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 8,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "部落冲突 (Clash of Clans)",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 9,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-my-talking-angela-2-4-5-star-pw",
       "name": "My Talking Angela 2 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
+      "rank": 7,
       "listType": "hot50"
     },
     {
@@ -86,7 +62,7 @@
       "name": "图标图片“My Talking Angela 2”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
+      "rank": 8,
       "listType": "hot50"
     },
     {
@@ -94,12 +70,36 @@
       "name": "My Talking Angela 2",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 9,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-4-5-star-pw",
+      "name": "部落冲突 (Clash of Clans) 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 10,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-pw",
+      "name": "图标图片“部落冲突 (Clash of Clans)”",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 11,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-pw",
+      "name": "部落冲突 (Clash of Clans)",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 12,
       "listType": "hot50"
     },
     {
-      "id": "hot50-33-castle-busters-4-1-star-pw",
-      "name": "33 Castle Busters 动作 4.1 star",
+      "id": "hot50-42-castle-busters-4-1-star-pw",
+      "name": "42 Castle Busters 动作 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -146,51 +146,75 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-war-and-peace-civil-war-erepublik-labs-10-pw",
-      "name": "War and Peace: Civil War Erepublik Labs • 所有年满 10 周岁的用户 应用内购商品",
+      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
+      "name": "Fishing Clash: Sport Simulator 模拟 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-war-and-peace-civil-war-erepublik-labs-10-pw",
-      "name": "War and Peace: Civil War Erepublik Labs • 所有年满 10 周岁的用户",
+      "id": "hot50-fishing-clash-sport-simulator-pw",
+      "name": "播放《Fishing Clash: Sport Simulator》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
       "listType": "hot50"
     },
     {
-      "id": "hot50-war-and-peace-civil-war-pw",
-      "name": "War and Peace: Civil War",
+      "id": "hot50-fishing-clash-sport-simulator-pw",
+      "name": "Fishing Clash: Sport Simulator",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
       "listType": "hot50"
     },
     {
-      "id": "hot50-honor-of-kings-level-infinite-10-pw",
-      "name": "王者荣耀国际服（Honor of Kings） Level Infinite • 所有年满 10 周岁的用户 应用内购商品",
+      "id": "hot50-snake-clash-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-honor-of-kings-level-infinite-10-pw",
-      "name": "王者荣耀国际服（Honor of Kings） Level Infinite • 所有年满 10 周岁的用户",
+      "id": "hot50-snake-clash-pw",
+      "name": "播放《蛇冲突 (Snake Clash)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-honor-of-kings-pw",
-      "name": "王者荣耀国际服（Honor of Kings）",
+      "id": "hot50-snake-clash-pw",
+      "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-pw",
+      "name": "播放《部落冲突 (Clash of Clans)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-pw",
+      "name": "播放《Castle Busters》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -222,7 +246,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 24
+      "extracted": 27
     },
     {
       "source": "APKCombo strategy playwright",
