@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:58:50.977Z",
+  "generatedAt": "2026-09-23T05:45:18.459Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-7-star-pw",
@@ -98,8 +98,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-42-castle-busters-4-1-star-pw",
-      "name": "42 Castle Busters 动作 4.1 star",
+      "id": "hot50-21-castle-busters-4-1-star-pw",
+      "name": "21 Castle Busters 动作 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -122,11 +122,35 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-45-warline-sniper-strike-4-8-star-pw",
+      "name": "45 Warline: Sniper Strike 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-4-8-star-pw",
+      "name": "Warline: Sniper Strike 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-pw",
+      "name": "Warline: Sniper Strike",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 18,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
       "name": "The Battle of Polytopia 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -134,7 +158,7 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 20,
       "listType": "hot50"
     },
     {
@@ -142,79 +166,79 @@
       "name": "The Battle of Polytopia",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
-      "name": "Fishing Clash: Sport Simulator 模拟 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "播放《Fishing Clash: Sport Simulator》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "Fishing Clash: Sport Simulator",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
+      "id": "hot50-world-war-2-lifeline143p-pw",
+      "name": "在 World War 2 活动中解锁 Lifeline143p",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-pw",
-      "name": "播放《蛇冲突 (Snake Clash)》",
+      "id": "hot50-transport-tycoon-empire-city-alda-pw",
+      "name": "Transport Tycoon Empire: City Alda • 适合所有人 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
+      "id": "hot50-transport-tycoon-empire-city-alda-pw",
+      "name": "Transport Tycoon Empire: City Alda • 适合所有人",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-pw",
-      "name": "播放《Clash Royale》",
+      "id": "hot50-transport-tycoon-empire-city-pw",
+      "name": "Transport Tycoon Empire: City",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "播放《部落冲突 (Clash of Clans)》",
+      "id": "hot50-total-battle-war-strategy-4-1-star-pw",
+      "name": "Total Battle: War Strategy 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-pw",
-      "name": "播放《Castle Busters》",
+      "id": "hot50-total-battle-war-strategy-pw",
+      "name": "Total Battle: War Strategy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-4-5-star-pw",
+      "name": "Merge Cooking® 模拟 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-pw",
+      "name": "播放《Merge Cooking®》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-merge-cooking-pw",
+      "name": "Merge Cooking®",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -246,7 +270,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 27
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
