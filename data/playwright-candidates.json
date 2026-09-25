@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T05:59:49.118Z",
+  "generatedAt": "2026-09-25T06:01:10.542Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-7-star-pw",
@@ -98,8 +98,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-36-castle-busters-4-2-star-pw",
-      "name": "36 Castle Busters 动作 4.2 star",
+      "id": "hot50-26-castle-busters-4-2-star-pw",
+      "name": "26 Castle Busters 动作 4.2 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -146,35 +146,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-viking-rise-train-your-dragon-igg-com-pw",
-      "name": "Viking Rise: Train Your Dragon IGG.COM • 青少年 应用内购商品",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-viking-rise-train-your-dragon-igg-com-pw",
-      "name": "Viking Rise: Train Your Dragon IGG.COM • 青少年",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-viking-rise-train-your-dragon-pw",
-      "name": "Viking Rise: Train Your Dragon",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-snake-clash-4-5-star-pw",
       "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -182,7 +158,7 @@
       "name": "播放《蛇冲突 (Snake Clash)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 20,
       "listType": "hot50"
     },
     {
@@ -190,31 +166,47 @@
       "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-of-clans-pw",
+      "name": "播放《部落冲突 (Clash of Clans)》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-plants-vs-zombies-3-6-star-pw",
+      "name": "Plants vs. Zombies™ 3.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-angela-2-4-5-star-pw",
-      "name": "My Talking Angela 2 休闲 4.5 star",
+      "id": "hot50-plants-vs-zombies-pw",
+      "name": "播放《Plants vs. Zombies™》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-dark-war-survival-4-4-star-pw",
-      "name": "Dark War Survival 4.4 star",
+      "id": "hot50-plants-vs-zombies-pw",
+      "name": "Plants vs. Zombies™",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-dark-war-survival-pw",
-      "name": "Dark War Survival",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -246,7 +238,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 27
+      "extracted": 26
     },
     {
       "source": "APKCombo strategy playwright",
