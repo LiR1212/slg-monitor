@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:01:10.542Z",
+  "generatedAt": "2026-09-26T06:00:40.733Z",
   "candidates": [
     {
       "id": "hot50-royal-kingdom-4-7-star-pw",
@@ -146,27 +146,59 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
+      "id": "hot50-kingshot-4-4-star-pw",
+      "name": "Kingshot 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-pw",
-      "name": "播放《蛇冲突 (Snake Clash)》",
+      "id": "hot50-kingshot-pw",
+      "name": "Kingshot",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
+      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
+      "name": "Fishing Clash: Sport Simulator 模拟 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-fishing-clash-sport-simulator-pw",
+      "name": "播放《Fishing Clash: Sport Simulator》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-fishing-clash-sport-simulator-pw",
+      "name": "Fishing Clash: Sport Simulator",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-evony-the-king-s-return-4-0-star-pw",
+      "name": "Evony: The King's Return 4.0 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-evony-the-king-s-return-pw",
+      "name": "Evony: The King's Return",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -174,7 +206,7 @@
       "name": "播放《Clash Royale》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -182,31 +214,31 @@
       "name": "播放《部落冲突 (Clash of Clans)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-plants-vs-zombies-3-6-star-pw",
-      "name": "Plants vs. Zombies™ 3.6 star",
+      "id": "hot50-doomsday-the-seven-deadly-sins-4-5-star-pw",
+      "name": "Doomsday:The Seven Deadly Sins 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-plants-vs-zombies-pw",
-      "name": "播放《Plants vs. Zombies™》",
+      "id": "hot50-doomsday-the-seven-deadly-sins-pw",
+      "name": "播放《Doomsday:The Seven Deadly Sins》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-plants-vs-zombies-pw",
-      "name": "Plants vs. Zombies™",
+      "id": "hot50-doomsday-the-seven-deadly-sins-pw",
+      "name": "Doomsday:The Seven Deadly Sins",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -238,7 +270,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 26
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
