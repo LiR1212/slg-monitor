@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T06:27:44.408Z",
+  "generatedAt": "2026-09-28T06:35:46.954Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2870,13 +2870,13 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-09-27T06:27:44.408Z",
+      "generatedAt": "2026-09-28T06:35:46.954Z",
       "range": {
-        "start": "2026-09-14",
-        "end": "2026-09-20",
-        "endExclusive": "2026-09-21"
+        "start": "2026-09-21",
+        "end": "2026-09-27",
+        "endExclusive": "2026-09-28"
       },
-      "triggerDate": "2026-09-21",
+      "triggerDate": "2026-09-28",
       "versionCount": 0,
       "activityCount": 0,
       "creativeCount": 0,
@@ -2886,7 +2886,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-09-27T06:27:44.408Z",
+      "generatedAt": "2026-09-28T06:35:46.954Z",
       "range": {
         "start": "2026-08-01",
         "end": "2026-08-31",
@@ -2929,7 +2929,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 28
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
@@ -2940,7 +2940,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 6
+      "extracted": 9
     },
     {
       "source": "APKCombo strategy",
