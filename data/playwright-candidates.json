@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T06:35:46.890Z",
+  "generatedAt": "2026-09-29T06:43:52.541Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -26,16 +26,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-4-castlevania-40th-anniversary-3-8-star-pw",
-      "name": "4 Castlevania: 40th Anniversary 动作 3.8 star",
+      "id": "hot50-5-castlevania-40th-anniversary-3-9-star-pw",
+      "name": "5 Castlevania: 40th Anniversary 动作 3.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castlevania-40th-anniversary-3-8-star-pw",
-      "name": "Castlevania: 40th Anniversary 动作 3.8 star",
+      "id": "hot50-castlevania-40th-anniversary-3-9-star-pw",
+      "name": "Castlevania: 40th Anniversary 动作 3.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 5,
@@ -50,8 +50,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-43-castle-busters-4-2-star-pw",
-      "name": "43 Castle Busters 动作 4.2 star",
+      "id": "hot50-38-castle-busters-4-2-star-pw",
+      "name": "38 Castle Busters 动作 4.2 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
@@ -170,59 +170,43 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingdom-rush-5-alliance-td-ironhide-10-pw",
-      "name": "Kingdom Rush 5: Alliance TD Ironhide • 所有年满 10 周岁的用户",
+      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
+      "name": "MWT: Tank Battles Artstorm FZE • 青少年 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingdom-rush-5-alliance-td-pw",
-      "name": "Kingdom Rush 5: Alliance TD",
+      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
+      "name": "MWT: Tank Battles Artstorm FZE • 青少年",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingdom-rush-frontiers-ironhide-10-pw",
-      "name": "Kingdom Rush Frontiers Ironhide • 所有年满 10 周岁的用户",
+      "id": "hot50-mwt-tank-battles-pw",
+      "name": "MWT: Tank Battles",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingdom-rush-frontiers-pw",
-      "name": "Kingdom Rush Frontiers",
+      "id": "hot50-drive-ahead-fun-car-battles-dodreams-ltd-1-pw",
+      "name": "Drive Ahead! - Fun Car Battles Dodreams Ltd. • 所有年满 10 周岁的用户",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-warframe-digital-extremes-17-pw",
-      "name": "Warframe Digital Extremes • 年满 17 周岁的成年人 应用内购商品",
+      "id": "hot50-drive-ahead-fun-car-battles-pw",
+      "name": "Drive Ahead! - Fun Car Battles",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warframe-digital-extremes-17-pw",
-      "name": "Warframe Digital Extremes • 年满 17 周岁的成年人",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warframe-pw",
-      "name": "Warframe",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
       "listType": "hot50"
     },
     {
@@ -230,7 +214,7 @@
       "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -238,7 +222,15 @@
       "name": "播放《蛇冲突 (Snake Clash)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-snake-clash-pw",
+      "name": "蛇冲突 (Snake Clash)",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
       "listType": "hot50"
     },
     {
@@ -270,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 29
     },
     {
       "source": "APKCombo strategy playwright",
