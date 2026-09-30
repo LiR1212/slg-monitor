@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T06:43:52.541Z",
+  "generatedAt": "2026-09-30T06:32:07.016Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -26,8 +26,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-5-castlevania-40th-anniversary-3-9-star-pw",
-      "name": "5 Castlevania: 40th Anniversary 动作 3.9 star",
+      "id": "hot50-8-castlevania-40th-anniversary-3-9-star-pw",
+      "name": "8 Castlevania: 40th Anniversary 动作 3.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
@@ -50,8 +50,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-38-castle-busters-4-2-star-pw",
-      "name": "38 Castle Busters 动作 4.2 star",
+      "id": "hot50-42-castle-busters-4-2-star-pw",
+      "name": "42 Castle Busters 动作 4.2 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
@@ -170,40 +170,40 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
-      "name": "MWT: Tank Battles Artstorm FZE • 青少年 应用内购商品",
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
-      "name": "MWT: Tank Battles Artstorm FZE • 青少年",
+      "id": "hot50-clash-of-clans-pw",
+      "name": "播放《部落冲突 (Clash of Clans)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-mwt-tank-battles-pw",
-      "name": "MWT: Tank Battles",
+      "id": "hot50-golf-clash-4-3-star-pw",
+      "name": "Golf Clash - 决战高尔夫 体育 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-drive-ahead-fun-car-battles-dodreams-ltd-1-pw",
-      "name": "Drive Ahead! - Fun Car Battles Dodreams Ltd. • 所有年满 10 周岁的用户",
+      "id": "hot50-golf-clash-pw",
+      "name": "播放《Golf Clash - 决战高尔夫》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-drive-ahead-fun-car-battles-pw",
-      "name": "Drive Ahead! - Fun Car Battles",
+      "id": "hot50-golf-clash-pw",
+      "name": "Golf Clash - 决战高尔夫",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
@@ -231,6 +231,14 @@
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-pw",
+      "name": "播放《Castle Busters》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -262,7 +270,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 29
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
