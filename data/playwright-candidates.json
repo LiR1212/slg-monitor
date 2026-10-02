@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:05:11.752Z",
+  "generatedAt": "2026-10-02T06:52:51.217Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -26,8 +26,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-8-castlevania-40th-anniversary-3-9-star-pw",
-      "name": "8 Castlevania: 40th Anniversary 动作 3.9 star",
+      "id": "hot50-11-castlevania-40th-anniversary-3-9-star-pw",
+      "name": "11 Castlevania: 40th Anniversary 动作 3.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
@@ -170,72 +170,72 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
-      "name": "World of Tanks Blitz™ Wargaming Group • 青少年 应用内购商品",
+      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
+      "name": "MWT: Tank Battles Artstorm FZE • 青少年 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-world-of-tanks-blitz-wargaming-group-pw",
-      "name": "World of Tanks Blitz™ Wargaming Group • 青少年",
+      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
+      "name": "MWT: Tank Battles Artstorm FZE • 青少年",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-wargaming-group-pw",
-      "name": "Wargaming Group • 青少年",
+      "id": "hot50-mwt-tank-battles-pw",
+      "name": "MWT: Tank Battles",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-wargaming-group-pw",
-      "name": "Wargaming Group",
+      "id": "hot50-clash-of-clans-pw",
+      "name": "播放《部落冲突 (Clash of Clans)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-evony-the-king-s-return-4-0-star-pw",
-      "name": "Evony: The King's Return 4.0 star",
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-evony-the-king-s-return-pw",
-      "name": "Evony: The King's Return",
+      "id": "hot50-merge-cooking-4-5-star-pw",
+      "name": "Merge Cooking® 模拟 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingdom-rush-6-genesis-td-4-7-star-us-6-99-pw",
-      "name": "Kingdom Rush 6: Genesis TD 4.7 star US$6.99",
+      "id": "hot50-merge-cooking-pw",
+      "name": "播放《Merge Cooking®》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingdom-rush-6-genesis-td-pw",
-      "name": "播放《Kingdom Rush 6: Genesis TD》",
+      "id": "hot50-merge-cooking-pw",
+      "name": "Merge Cooking®",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-kingdom-rush-6-genesis-td-pw",
-      "name": "Kingdom Rush 6: Genesis TD",
+      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
+      "name": "Fishing Clash: Sport Simulator 模拟 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,

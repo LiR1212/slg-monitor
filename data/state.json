@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T07:05:11.829Z",
+  "generatedAt": "2026-10-02T06:52:51.271Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2930,7 +2930,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-10-01T07:05:11.829Z",
+      "generatedAt": "2026-10-02T06:52:51.271Z",
       "range": {
         "start": "2026-09-21",
         "end": "2026-09-27",
@@ -2946,7 +2946,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-10-01T07:05:11.829Z",
+      "generatedAt": "2026-10-02T06:52:51.271Z",
       "range": {
         "start": "2026-08-01",
         "end": "2026-08-31",
@@ -3000,7 +3000,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 7
+      "extracted": 8
     },
     {
       "source": "APKCombo strategy",
@@ -3011,7 +3011,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 2,
+      "hot": 0,
       "newLaunch": 0
     }
   ],
