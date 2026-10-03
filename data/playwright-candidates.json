@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:52:51.217Z",
+  "generatedAt": "2026-10-03T06:17:49.332Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -26,35 +26,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-11-castlevania-40th-anniversary-3-9-star-pw",
-      "name": "11 Castlevania: 40th Anniversary 动作 3.9 star",
+      "id": "hot50-25-castle-busters-4-2-star-pw",
+      "name": "25 Castle Busters 动作 4.2 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castlevania-40th-anniversary-3-9-star-pw",
-      "name": "Castlevania: 40th Anniversary 动作 3.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 5,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castlevania-40th-anniversary-pw",
-      "name": "Castlevania: 40th Anniversary",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 6,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-42-castle-busters-4-2-star-pw",
-      "name": "42 Castle Busters 动作 4.2 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 7,
       "listType": "hot50"
     },
     {
@@ -62,12 +38,36 @@
       "name": "Castle Busters 动作 4.2 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 8,
+      "rank": 5,
       "listType": "hot50"
     },
     {
       "id": "hot50-castle-busters-pw",
       "name": "Castle Busters",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 6,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-31-warline-sniper-strike-4-9-star-pw",
+      "name": "31 Warline: Sniper Strike 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 7,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-4-9-star-pw",
+      "name": "Warline: Sniper Strike 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 8,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-pw",
+      "name": "Warline: Sniper Strike",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 9,
@@ -194,48 +194,48 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "播放《部落冲突 (Clash of Clans)》",
+      "id": "hot50-total-battle-war-strategy-4-1-star-pw",
+      "name": "Total Battle: War Strategy 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-pw",
-      "name": "播放《Clash Royale》",
+      "id": "hot50-total-battle-war-strategy-pw",
+      "name": "Total Battle: War Strategy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-merge-cooking-4-5-star-pw",
-      "name": "Merge Cooking® 模拟 4.5 star",
+      "id": "hot50-snake-clash-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-merge-cooking-pw",
-      "name": "播放《Merge Cooking®》",
+      "id": "hot50-snake-clash-pw",
+      "name": "播放《蛇冲突 (Snake Clash)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-merge-cooking-pw",
-      "name": "Merge Cooking®",
+      "id": "hot50-snake-clash-pw",
+      "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
-      "name": "Fishing Clash: Sport Simulator 模拟 4.7 star",
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
