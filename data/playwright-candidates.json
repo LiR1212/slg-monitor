@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:24:51.085Z",
+  "generatedAt": "2026-10-07T07:03:45.204Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -26,8 +26,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-35-castle-busters-4-2-star-pw",
-      "name": "35 Castle Busters 动作 4.2 star",
+      "id": "hot50-37-castle-busters-4-2-star-pw",
+      "name": "37 Castle Busters 动作 4.2 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
@@ -170,43 +170,27 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-pw",
-      "name": "播放《Clash Royale》",
+      "id": "hot50-my-talking-angela-2-4-5-star-pw",
+      "name": "My Talking Angela 2 休闲 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "播放《部落冲突 (Clash of Clans)》",
+      "id": "hot50-my-talking-tom-friends-4-4-star-pw",
+      "name": "My Talking Tom Friends 休闲 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-fishing-clash-sport-simulator-4-7-star-pw",
-      "name": "Fishing Clash: Sport Simulator 模拟 4.7 star",
+      "id": "hot50-my-talking-tom-friends-pw",
+      "name": "My Talking Tom Friends",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "播放《Fishing Clash: Sport Simulator》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-fishing-clash-sport-simulator-pw",
-      "name": "Fishing Clash: Sport Simulator",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -214,7 +198,7 @@
       "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -222,7 +206,7 @@
       "name": "播放《蛇冲突 (Snake Clash)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -230,7 +214,31 @@
       "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-pw",
+      "name": "播放《Castle Busters》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-total-battle-war-strategy-4-1-star-pw",
+      "name": "Total Battle: War Strategy 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 30,
       "listType": "hot50"
     },
     {
@@ -262,7 +270,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 29
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
