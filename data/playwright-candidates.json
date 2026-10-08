@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:03:45.204Z",
+  "generatedAt": "2026-10-08T07:12:16.069Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -26,43 +26,19 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-37-castle-busters-4-2-star-pw",
-      "name": "37 Castle Busters 动作 4.2 star",
+      "id": "hot50-39-royal-kingdom-4-7-star-pw",
+      "name": "39 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-4-2-star-pw",
-      "name": "Castle Busters 动作 4.2 star",
+      "id": "hot50-royal-kingdom-4-7-star-pw",
+      "name": "Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 5,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-pw",
-      "name": "Castle Busters",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 6,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-4-7-star-pw",
-      "name": "Royal Kingdom 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 7,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-pw",
-      "name": "图标图片“Royal Kingdom”",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 8,
       "listType": "hot50"
     },
     {
@@ -70,7 +46,47 @@
       "name": "Royal Kingdom",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 6,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-41-castle-busters-4-2-star-pw",
+      "name": "41 Castle Busters 动作 4.2 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 7,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-4-2-star-pw",
+      "name": "Castle Busters 动作 4.2 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 8,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-pw",
+      "name": "Castle Busters",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 9,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-4-7-star-pw",
+      "name": "Royal Kingdom 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 10,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-pw",
+      "name": "图标图片“Royal Kingdom”",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 11,
       "listType": "hot50"
     },
     {
@@ -78,7 +94,7 @@
       "name": "Clash Royale 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
+      "rank": 12,
       "listType": "hot50"
     },
     {
@@ -86,7 +102,7 @@
       "name": "图标图片“Clash Royale”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
+      "rank": 13,
       "listType": "hot50"
     },
     {
@@ -94,7 +110,7 @@
       "name": "Clash Royale",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
+      "rank": 14,
       "listType": "hot50"
     },
     {
@@ -102,7 +118,7 @@
       "name": "部落冲突 (Clash of Clans) 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
+      "rank": 15,
       "listType": "hot50"
     },
     {
@@ -110,7 +126,7 @@
       "name": "图标图片“部落冲突 (Clash of Clans)”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
+      "rank": 16,
       "listType": "hot50"
     },
     {
@@ -118,7 +134,7 @@
       "name": "部落冲突 (Clash of Clans)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -126,7 +142,7 @@
       "name": "My Talking Angela 2 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 18,
       "listType": "hot50"
     },
     {
@@ -134,7 +150,7 @@
       "name": "图标图片“My Talking Angela 2”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -142,100 +158,84 @@
       "name": "My Talking Angela 2",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
-      "name": "MWT: Tank Battles Artstorm FZE • 青少年 应用内购商品",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-mwt-tank-battles-artstorm-fze-pw",
-      "name": "MWT: Tank Battles Artstorm FZE • 青少年",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
       "listType": "hot50"
     },
     {
-      "id": "hot50-mwt-tank-battles-pw",
-      "name": "MWT: Tank Battles",
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-angela-2-4-5-star-pw",
-      "name": "My Talking Angela 2 休闲 4.5 star",
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "播放《Don't Die: SurvivalAutoBattler》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-tom-friends-4-4-star-pw",
-      "name": "My Talking Tom Friends 休闲 4.4 star",
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-tom-friends-pw",
-      "name": "My Talking Tom Friends",
+      "id": "hot50-clash-pw",
+      "name": "这个Clash万圣节，裂隙出现，宇宙诅咒降临！",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-4-5-star-pw",
-      "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
+      "id": "hot50-clash-of-clans-supercell-10-pw",
+      "name": "部落冲突 (Clash of Clans) Supercell • 所有年满 10 周岁的用户 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-pw",
-      "name": "播放《蛇冲突 (Snake Clash)》",
+      "id": "hot50-clash-of-clans-supercell-10-pw",
+      "name": "部落冲突 (Clash of Clans) Supercell • 所有年满 10 周岁的用户",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-snake-clash-pw",
-      "name": "蛇冲突 (Snake Clash)",
+      "id": "hot50-we-are-cooking-taste-of-life-4-6-star-pw",
+      "name": "We Are Cooking: Taste of Life 街机 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-pw",
-      "name": "播放《Clash Royale》",
+      "id": "hot50-we-are-cooking-taste-of-life-pw",
+      "name": "播放《We Are Cooking: Taste of Life》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-pw",
-      "name": "播放《Castle Busters》",
+      "id": "hot50-we-are-cooking-taste-of-life-pw",
+      "name": "We Are Cooking: Taste of Life",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-total-battle-war-strategy-4-1-star-pw",
-      "name": "Total Battle: War Strategy 4.1 star",
+      "id": "hot50-royal-cooking-cooking-game-4-7-star-pw",
+      "name": "Royal Cooking - Cooking Game 街机 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
