@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:12:16.069Z",
+  "generatedAt": "2026-10-09T07:16:30.895Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -26,48 +26,48 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-39-royal-kingdom-4-7-star-pw",
-      "name": "39 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-star-wars-kotor-3-7-star-us-9-99us-5-00-pw",
+      "name": "Star Wars™: KOTOR 3.7 star US$9.99US$5.00",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
       "listType": "hot50"
     },
     {
-      "id": "hot50-royal-kingdom-4-7-star-pw",
-      "name": "Royal Kingdom 益智 4.7 star",
+      "id": "hot50-star-wars-kotor-pw",
+      "name": "图标图片“Star Wars™: KOTOR”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 5,
       "listType": "hot50"
     },
     {
-      "id": "hot50-royal-kingdom-pw",
-      "name": "Royal Kingdom",
+      "id": "hot50-star-wars-kotor-pw",
+      "name": "Star Wars™: KOTOR",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 6,
       "listType": "hot50"
     },
     {
-      "id": "hot50-41-castle-busters-4-2-star-pw",
-      "name": "41 Castle Busters 动作 4.2 star",
+      "id": "hot50-star-wars-kotor-ii-4-3-star-us-14-99us-7-5-pw",
+      "name": "STAR WARS™: KOTOR II 4.3 star US$14.99US$7.50",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-4-2-star-pw",
-      "name": "Castle Busters 动作 4.2 star",
+      "id": "hot50-star-wars-kotor-ii-pw",
+      "name": "图标图片“STAR WARS™: KOTOR II”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 8,
       "listType": "hot50"
     },
     {
-      "id": "hot50-castle-busters-pw",
-      "name": "Castle Busters",
+      "id": "hot50-star-wars-kotor-ii-pw",
+      "name": "STAR WARS™: KOTOR II",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 9,
@@ -90,16 +90,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-4-4-star-pw",
-      "name": "Clash Royale 4.4 star",
+      "id": "hot50-royal-kingdom-pw",
+      "name": "Royal Kingdom",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 12,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-royale-pw",
-      "name": "图标图片“Clash Royale”",
+      "id": "hot50-clash-royale-4-4-star-pw",
+      "name": "Clash Royale 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
@@ -107,10 +107,18 @@
     },
     {
       "id": "hot50-clash-royale-pw",
-      "name": "Clash Royale",
+      "name": "图标图片“Clash Royale”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 14,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "Clash Royale",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
       "listType": "hot50"
     },
     {
@@ -118,7 +126,7 @@
       "name": "部落冲突 (Clash of Clans) 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
+      "rank": 16,
       "listType": "hot50"
     },
     {
@@ -126,7 +134,7 @@
       "name": "图标图片“部落冲突 (Clash of Clans)”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -134,148 +142,68 @@
       "name": "部落冲突 (Clash of Clans)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-my-talking-angela-2-4-5-star-pw",
-      "name": "My Talking Angela 2 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-angela-2-pw",
-      "name": "图标图片“My Talking Angela 2”",
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-my-talking-angela-2-pw",
-      "name": "My Talking Angela 2",
+      "id": "hot50-clash-of-clans-pw",
+      "name": "播放《部落冲突 (Clash of Clans)》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-survivalautobattler-pw",
-      "name": "Don't Die: SurvivalAutoBattler 休闲",
+      "id": "hot50-golf-clash-4-3-star-pw",
+      "name": "Golf Clash - 决战高尔夫 体育 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-survivalautobattler-pw",
-      "name": "播放《Don't Die: SurvivalAutoBattler》",
+      "id": "hot50-golf-clash-pw",
+      "name": "播放《Golf Clash - 决战高尔夫》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-survivalautobattler-pw",
-      "name": "Don't Die: SurvivalAutoBattler",
+      "id": "hot50-golf-clash-pw",
+      "name": "Golf Clash - 决战高尔夫",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-pw",
-      "name": "这个Clash万圣节，裂隙出现，宇宙诅咒降临！",
+      "id": "hot50-royal-kingdom-4-7-star-pw",
+      "name": "Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-of-clans-supercell-10-pw",
-      "name": "部落冲突 (Clash of Clans) Supercell • 所有年满 10 周岁的用户 应用内购商品",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-of-clans-supercell-10-pw",
-      "name": "部落冲突 (Clash of Clans) Supercell • 所有年满 10 周岁的用户",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-we-are-cooking-taste-of-life-4-6-star-pw",
-      "name": "We Are Cooking: Taste of Life 街机 4.6 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-we-are-cooking-taste-of-life-pw",
-      "name": "播放《We Are Cooking: Taste of Life》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-we-are-cooking-taste-of-life-pw",
-      "name": "We Are Cooking: Taste of Life",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-cooking-cooking-game-4-7-star-pw",
-      "name": "Royal Cooking - Cooking Game 街机 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
-      "listType": "hot50"
-    },
-    {
-      "id": "newLaunch-language-pw",
-      "name": "Language",
-      "source": "APKCombo strategy playwright",
-      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
-      "rank": 1,
-      "listType": "newLaunch"
-    },
-    {
-      "id": "newLaunch-modern-warplanes-50-m-pw",
-      "name": "Modern Warplanes 50 M+",
-      "source": "APKCombo strategy playwright",
-      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
-      "rank": 2,
-      "listType": "newLaunch"
-    },
-    {
-      "id": "newLaunch-modern-warplanes-icon-pw",
-      "name": "Modern Warplanes icon",
-      "source": "APKCombo strategy playwright",
-      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
-      "rank": 3,
-      "listType": "newLaunch"
     }
   ],
   "logs": [
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 24
     },
     {
       "source": "APKCombo strategy playwright",
-      "ok": true,
-      "extracted": 3
+      "ok": false,
+      "message": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://apkcombo.com/zh/game/strategy/\nCall log:\n  - navigating to \"https://apkcombo.com/zh/game/strategy/\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T07:12:16.130Z",
+  "generatedAt": "2026-10-09T07:16:30.968Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2816,6 +2816,66 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-star-wars-kotor-2026-10-09",
+      "name": "图标图片“Star Wars™: KOTOR”",
+      "alias": "图标图片“Star Wars™: KOTOR”",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "太空科幻",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "舰队",
+        "太空SLG"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-10-09",
+      "heatScore": 29,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-star-wars-kotor-ii-2026-10-09",
+      "name": "图标图片“STAR WARS™: KOTOR II”",
+      "alias": "图标图片“STAR WARS™: KOTOR II”",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "太空科幻",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "舰队",
+        "太空SLG"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-10-09",
+      "heatScore": 28,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -2990,7 +3050,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-10-08T07:12:16.130Z",
+      "generatedAt": "2026-10-09T07:16:30.968Z",
       "range": {
         "start": "2026-09-28",
         "end": "2026-10-04",
@@ -3006,7 +3066,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-10-08T07:12:16.130Z",
+      "generatedAt": "2026-10-09T07:16:30.968Z",
       "range": {
         "start": "2026-09-01",
         "end": "2026-09-30",
@@ -3049,12 +3109,12 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 24
     },
     {
       "source": "APKCombo strategy playwright",
-      "ok": true,
-      "extracted": 3
+      "ok": false,
+      "message": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://apkcombo.com/zh/game/strategy/\nCall log:\n  - navigating to \"https://apkcombo.com/zh/game/strategy/\", waiting until \"domcontentloaded\"\n"
     },
     {
       "source": "Google Play games",
@@ -3066,12 +3126,12 @@
       "source": "APKCombo strategy",
       "url": "https://apkcombo.com/zh/game/strategy/",
       "ok": false,
-      "message": "HTTP 404"
+      "message": "fetch failed"
     },
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 1,
+      "hot": 2,
       "newLaunch": 0
     }
   ],
