@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:58:07.165Z",
+  "generatedAt": "2026-10-12T07:10:46.297Z",
   "candidates": [
     {
       "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
@@ -50,8 +50,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-32-royal-kingdom-4-7-star-pw",
-      "name": "32 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-40-royal-kingdom-4-7-star-pw",
+      "name": "40 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
@@ -74,35 +74,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-36-castle-busters-4-1-star-pw",
-      "name": "36 Castle Busters 动作 4.1 star",
+      "id": "hot50-43-warline-sniper-strike-4-9-star-pw",
+      "name": "43 Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 10,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-4-1-star-pw",
-      "name": "Castle Busters 动作 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-castle-busters-pw",
-      "name": "Castle Busters",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-45-warline-sniper-strike-4-9-star-pw",
-      "name": "45 Warline: Sniper Strike 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
       "listType": "hot50"
     },
     {
@@ -110,12 +86,36 @@
       "name": "Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
+      "rank": 11,
       "listType": "hot50"
     },
     {
       "id": "hot50-warline-sniper-strike-pw",
       "name": "Warline: Sniper Strike",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 12,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-44-castle-busters-4-1-star-pw",
+      "name": "44 Castle Busters 动作 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 13,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-4-1-star-pw",
+      "name": "Castle Busters 动作 4.1 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 14,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-castle-busters-pw",
+      "name": "Castle Busters",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
@@ -210,32 +210,32 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-4-5-star-pw",
-      "name": "部落冲突 (Clash of Clans) 4.5 star",
+      "id": "hot50-we-are-cooking-taste-of-life-4-7-star-pw",
+      "name": "We Are Cooking: Taste of Life 街机 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "图标图片“部落冲突 (Clash of Clans)”",
+      "id": "hot50-we-are-cooking-taste-of-life-pw",
+      "name": "播放《We Are Cooking: Taste of Life》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-clash-of-clans-pw",
-      "name": "部落冲突 (Clash of Clans)",
+      "id": "hot50-we-are-cooking-taste-of-life-pw",
+      "name": "We Are Cooking: Taste of Life",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-we-are-cooking-taste-of-life-4-7-star-pw",
-      "name": "We Are Cooking: Taste of Life 街机 4.7 star",
+      "id": "hot50-royal-cooking-cooking-game-4-7-star-pw",
+      "name": "Royal Cooking - Cooking Game 街机 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
