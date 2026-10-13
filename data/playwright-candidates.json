@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T07:10:46.297Z",
+  "generatedAt": "2026-10-13T07:34:38.251Z",
   "candidates": [
     {
-      "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
-      "name": "Discounty: Supermarket Manager 冒险 4.7 star US$12.99",
+      "id": "hot50-discounty-supermarket-manager-4-6-star-us--pw",
+      "name": "Discounty: Supermarket Manager 冒险 4.6 star US$12.99",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 1,
@@ -50,8 +50,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-40-royal-kingdom-4-7-star-pw",
-      "name": "40 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-22-royal-kingdom-4-7-star-pw",
+      "name": "22 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
@@ -74,35 +74,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-43-warline-sniper-strike-4-9-star-pw",
-      "name": "43 Warline: Sniper Strike 4.9 star",
+      "id": "hot50-39-castle-busters-4-1-star-pw",
+      "name": "39 Castle Busters 动作 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 10,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warline-sniper-strike-4-9-star-pw",
-      "name": "Warline: Sniper Strike 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warline-sniper-strike-pw",
-      "name": "Warline: Sniper Strike",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-44-castle-busters-4-1-star-pw",
-      "name": "44 Castle Busters 动作 4.1 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
       "listType": "hot50"
     },
     {
@@ -110,7 +86,7 @@
       "name": "Castle Busters 动作 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
+      "rank": 11,
       "listType": "hot50"
     },
     {
@@ -118,23 +94,31 @@
       "name": "Castle Busters",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 12,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-43-warline-sniper-strike-4-9-star-pw",
+      "name": "43 Warline: Sniper Strike 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 13,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-4-9-star-pw",
+      "name": "Warline: Sniper Strike 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 14,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-strike-pw",
+      "name": "Warline: Sniper Strike",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 15,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-star-wars-kotor-3-7-star-us-9-99us-5-00-pw",
-      "name": "Star Wars™: KOTOR 3.7 star US$9.99US$5.00",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-star-wars-kotor-pw",
-      "name": "图标图片“Star Wars™: KOTOR”",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -142,7 +126,71 @@
       "name": "Star Wars™: KOTOR",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-injustice-2-warner-bros-international-ente-pw",
+      "name": "Injustice 2 Warner Bros. International Enterprises • 青少年 应用内购商品",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-injustice-2-warner-bros-international-ente-pw",
+      "name": "Injustice 2 Warner Bros. International Enterprises • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warner-bros-international-enterprises-pw",
+      "name": "Warner Bros. International Enterprises • 青少年",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warner-bros-international-enterprises-pw",
+      "name": "Warner Bros. International Enterprises",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-cooking-joy-pw",
+      "name": "Cooking Joy 模拟",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-cooking-joy-pw",
+      "name": "Cooking Joy",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-star-wars-kotor-3-7-star-us-9-99us-5-00-pw",
+      "name": "Star Wars™: KOTOR 3.7 star US$9.99US$5.00",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-star-wars-kotor-pw",
+      "name": "图标图片“Star Wars™: KOTOR”",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -150,7 +198,7 @@
       "name": "STAR WARS™: KOTOR II 4.3 star US$14.99US$7.50",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -158,7 +206,7 @@
       "name": "图标图片“STAR WARS™: KOTOR II”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
+      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -166,7 +214,7 @@
       "name": "STAR WARS™: KOTOR II",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -174,7 +222,7 @@
       "name": "Royal Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 28,
       "listType": "hot50"
     },
     {
@@ -182,60 +230,12 @@
       "name": "图标图片“Royal Kingdom”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 29,
       "listType": "hot50"
     },
     {
       "id": "hot50-clash-royale-4-4-star-pw",
       "name": "Clash Royale 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-royale-pw",
-      "name": "图标图片“Clash Royale”",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-clash-royale-pw",
-      "name": "Clash Royale",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-we-are-cooking-taste-of-life-4-7-star-pw",
-      "name": "We Are Cooking: Taste of Life 街机 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-we-are-cooking-taste-of-life-pw",
-      "name": "播放《We Are Cooking: Taste of Life》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-we-are-cooking-taste-of-life-pw",
-      "name": "We Are Cooking: Taste of Life",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-cooking-cooking-game-4-7-star-pw",
-      "name": "Royal Cooking - Cooking Game 街机 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
