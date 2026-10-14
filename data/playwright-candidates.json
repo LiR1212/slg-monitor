@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:34:38.251Z",
+  "generatedAt": "2026-10-14T05:58:43.913Z",
   "candidates": [
     {
       "id": "hot50-discounty-supermarket-manager-4-6-star-us--pw",
@@ -50,8 +50,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-22-royal-kingdom-4-7-star-pw",
-      "name": "22 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-17-royal-kingdom-4-7-star-pw",
+      "name": "17 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
@@ -74,8 +74,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-39-castle-busters-4-1-star-pw",
-      "name": "39 Castle Busters 动作 4.1 star",
+      "id": "hot50-41-castle-busters-4-1-star-pw",
+      "name": "41 Castle Busters 动作 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 10,
@@ -130,11 +130,35 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler 休闲",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "播放《Don't Die: SurvivalAutoBattler》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 18,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-injustice-2-warner-bros-international-ente-pw",
       "name": "Injustice 2 Warner Bros. International Enterprises • 青少年 应用内购商品",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 20,
       "listType": "hot50"
     },
     {
@@ -142,7 +166,7 @@
       "name": "Injustice 2 Warner Bros. International Enterprises • 青少年",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
+      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -150,7 +174,7 @@
       "name": "Warner Bros. International Enterprises • 青少年",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -158,39 +182,7 @@
       "name": "Warner Bros. International Enterprises",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-cooking-joy-pw",
-      "name": "Cooking Joy 模拟",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-cooking-joy-pw",
-      "name": "Cooking Joy",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-star-wars-kotor-3-7-star-us-9-99us-5-00-pw",
-      "name": "Star Wars™: KOTOR 3.7 star US$9.99US$5.00",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-star-wars-kotor-pw",
-      "name": "图标图片“Star Wars™: KOTOR”",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -198,7 +190,7 @@
       "name": "STAR WARS™: KOTOR II 4.3 star US$14.99US$7.50",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -206,7 +198,7 @@
       "name": "图标图片“STAR WARS™: KOTOR II”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -214,7 +206,7 @@
       "name": "STAR WARS™: KOTOR II",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -222,7 +214,7 @@
       "name": "Royal Kingdom 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -230,12 +222,20 @@
       "name": "图标图片“Royal Kingdom”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
+      "rank": 28,
       "listType": "hot50"
     },
     {
       "id": "hot50-clash-royale-4-4-star-pw",
       "name": "Clash Royale 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 29,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "图标图片“Clash Royale”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
