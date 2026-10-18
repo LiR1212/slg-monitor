@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T05:26:53.248Z",
+  "generatedAt": "2026-10-18T05:38:59.370Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-19-royal-kingdom-4-7-star-pw",
-      "name": "19 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-21-royal-kingdom-4-7-star-pw",
+      "name": "21 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -138,8 +138,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-32-warline-sniper-strike-4-9-star-pw",
-      "name": "32 Warline: Sniper Strike 4.9 star",
+      "id": "hot50-31-warline-sniper-strike-4-9-star-pw",
+      "name": "31 Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
@@ -162,8 +162,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-39-castle-busters-4-1-star-pw",
-      "name": "39 Castle Busters 动作 4.1 star",
+      "id": "hot50-38-castle-busters-4-1-star-pw",
+      "name": "38 Castle Busters 动作 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
@@ -186,11 +186,35 @@
       "listType": "hot50"
     },
     {
+      "id": "hot50-40-surprise-dumpling-asmr-box-4-7-star-pw",
+      "name": "40 Surprise Dumpling: ASMR Box 休闲 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-surprise-dumpling-asmr-box-4-7-star-pw",
+      "name": "Surprise Dumpling: ASMR Box 休闲 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-surprise-dumpling-asmr-box-pw",
+      "name": "Surprise Dumpling: ASMR Box",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
       "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
       "name": "Discounty: Supermarket Manager 冒险 4.7 star US$12.99",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -198,7 +222,7 @@
       "name": "播放《Discounty: Supermarket Manager》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 28,
       "listType": "hot50"
     },
     {
@@ -206,36 +230,12 @@
       "name": "Discounty: Supermarket Manager",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 29,
       "listType": "hot50"
     },
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
       "name": "The Battle of Polytopia 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "The Battle of Polytopia",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-don-t-die-survivalautobattler-pw",
-      "name": "Don't Die: SurvivalAutoBattler 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
