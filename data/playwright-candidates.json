@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:56:24.538Z",
+  "generatedAt": "2026-10-20T05:49:13.323Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-28-royal-kingdom-4-7-star-pw",
-      "name": "28 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-19-royal-kingdom-4-7-star-pw",
+      "name": "19 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -138,35 +138,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-30-surprise-dumpling-asmr-box-4-7-star-pw",
-      "name": "30 Surprise Dumpling: ASMR Box 休闲 4.7 star",
+      "id": "hot50-22-warline-sniper-strike-4-9-star-pw",
+      "name": "22 Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-surprise-dumpling-asmr-box-4-7-star-pw",
-      "name": "Surprise Dumpling: ASMR Box 休闲 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-surprise-dumpling-asmr-box-pw",
-      "name": "Surprise Dumpling: ASMR Box",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-33-warline-sniper-strike-4-9-star-pw",
-      "name": "33 Warline: Sniper Strike 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
       "listType": "hot50"
     },
     {
@@ -174,7 +150,7 @@
       "name": "Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -182,31 +158,31 @@
       "name": "Warline: Sniper Strike",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-33-surprise-dumpling-asmr-box-4-6-star-pw",
+      "name": "33 Surprise Dumpling: ASMR Box 休闲 4.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-surprise-dumpling-asmr-box-4-6-star-pw",
+      "name": "Surprise Dumpling: ASMR Box 休闲 4.6 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-surprise-dumpling-asmr-box-pw",
+      "name": "Surprise Dumpling: ASMR Box",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
-      "name": "Discounty: Supermarket Manager 冒险 4.7 star US$12.99",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-discounty-supermarket-manager-pw",
-      "name": "播放《Discounty: Supermarket Manager》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-discounty-supermarket-manager-pw",
-      "name": "Discounty: Supermarket Manager",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -214,7 +190,7 @@
       "name": "The Battle of Polytopia 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -222,12 +198,36 @@
       "name": "播放《The Battle of Polytopia》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 25,
       "listType": "hot50"
     },
     {
       "id": "hot50-the-battle-of-polytopia-pw",
       "name": "The Battle of Polytopia",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
+      "name": "Discounty: Supermarket Manager 冒险 4.7 star US$12.99",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-discounty-supermarket-manager-pw",
+      "name": "播放《Discounty: Supermarket Manager》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-discounty-supermarket-manager-pw",
+      "name": "Discounty: Supermarket Manager",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
