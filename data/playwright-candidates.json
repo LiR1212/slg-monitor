@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:52:01.753Z",
+  "generatedAt": "2026-10-22T05:55:33.941Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-16-tank-busters-cannon-battle-4-3-star-pw",
-      "name": "16 Tank Busters: Cannon Battle 动作 4.3 star",
+      "id": "hot50-9-tank-busters-cannon-battle-4-3-star-pw",
+      "name": "9 Tank Busters: Cannon Battle 动作 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,8 +146,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-29-warline-sniper-strike-4-9-star-pw",
-      "name": "29 Warline: Sniper Strike 4.9 star",
+      "id": "hot50-23-warline-sniper-strike-4-9-star-pw",
+      "name": "23 Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
@@ -170,35 +170,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-30-surprise-dumpling-asmr-box-4-7-star-pw",
-      "name": "30 Surprise Dumpling: ASMR Box 休闲 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-surprise-dumpling-asmr-box-4-7-star-pw",
-      "name": "Surprise Dumpling: ASMR Box 休闲 4.7 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-surprise-dumpling-asmr-box-pw",
-      "name": "Surprise Dumpling: ASMR Box",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-31-royal-kingdom-4-7-star-pw",
       "name": "31 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 22,
       "listType": "hot50"
     },
     {
@@ -206,36 +182,60 @@
       "name": "Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-38-surprise-dumpling-asmr-box-4-7-star-pw",
+      "name": "38 Surprise Dumpling: ASMR Box 休闲 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-surprise-dumpling-asmr-box-4-7-star-pw",
+      "name": "Surprise Dumpling: ASMR Box 休闲 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-surprise-dumpling-asmr-box-pw",
+      "name": "Surprise Dumpling: ASMR Box",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
-      "name": "The Battle of Polytopia 4.4 star",
+      "id": "hot50-43-auto-drill-galaxy-4-3-star-pw",
+      "name": "43 Auto Drill: Galaxy 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
+      "id": "hot50-auto-drill-galaxy-4-3-star-pw",
+      "name": "Auto Drill: Galaxy 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "The Battle of Polytopia",
+      "id": "hot50-auto-drill-galaxy-pw",
+      "name": "Auto Drill: Galaxy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
-      "name": "Discounty: Supermarket Manager 冒险 4.7 star US$12.99",
+      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
+      "name": "The Battle of Polytopia 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
