@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:52:41.478Z",
+  "generatedAt": "2026-10-24T05:36:48.297Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,16 +122,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-7-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "7 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-6-tank-busters-cannon-battle-4-3-star-pw",
+      "name": "6 Tank Busters: Cannon Battle 动作 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
       "listType": "hot50"
     },
     {
-      "id": "hot50-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-tank-busters-cannon-battle-4-3-star-pw",
+      "name": "Tank Busters: Cannon Battle 动作 4.3 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 17,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-28-royal-kingdom-4-7-star-pw",
-      "name": "28 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-24-royal-kingdom-4-7-star-pw",
+      "name": "24 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
@@ -186,16 +186,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-43-auto-drill-galaxy-4-2-star-pw",
-      "name": "43 Auto Drill: Galaxy 4.2 star",
+      "id": "hot50-42-auto-drill-galaxy-4-1-star-pw",
+      "name": "42 Auto Drill: Galaxy 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-auto-drill-galaxy-4-2-star-pw",
-      "name": "Auto Drill: Galaxy 4.2 star",
+      "id": "hot50-auto-drill-galaxy-4-1-star-pw",
+      "name": "Auto Drill: Galaxy 4.1 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
@@ -234,8 +234,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-discounty-supermarket-manager-4-6-star-us--pw",
-      "name": "Discounty: Supermarket Manager 冒险 4.6 star US$12.99",
+      "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
+      "name": "Discounty: Supermarket Manager 冒险 4.7 star US$12.99",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
