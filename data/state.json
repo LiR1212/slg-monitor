@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T05:36:48.378Z",
+  "generatedAt": "2026-10-25T05:51:40.902Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2876,6 +2876,36 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-doomsday-undead-bride-2026-10-25",
+      "name": "播放《Doomsday: Undead Bride》",
+      "alias": "播放《Doomsday: Undead Bride》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "末日生存",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "生存",
+        "基地建设"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-10-25",
+      "heatScore": 30,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -3050,7 +3080,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-10-24T05:36:48.378Z",
+      "generatedAt": "2026-10-25T05:51:40.902Z",
       "range": {
         "start": "2026-10-12",
         "end": "2026-10-18",
@@ -3066,7 +3096,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-10-24T05:36:48.378Z",
+      "generatedAt": "2026-10-25T05:51:40.902Z",
       "range": {
         "start": "2026-09-01",
         "end": "2026-09-30",
@@ -3120,7 +3150,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 10
+      "extracted": 8
     },
     {
       "source": "APKCombo strategy",
@@ -3131,7 +3161,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 1,
       "newLaunch": 0
     }
   ],
