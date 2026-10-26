@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:51:40.819Z",
+  "generatedAt": "2026-10-26T05:55:08.950Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-16-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "16 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-7-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "7 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,8 +146,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-22-warline-sniper-strike-4-9-star-pw",
-      "name": "22 Warline: Sniper Strike 4.9 star",
+      "id": "hot50-24-warline-sniper-strike-4-9-star-pw",
+      "name": "24 Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
@@ -170,40 +170,40 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-29-surprise-dumpling-asmr-box-4-6-star-pw",
-      "name": "29 Surprise Dumpling: ASMR Box 休闲 4.6 star",
+      "id": "hot50-32-royal-kingdom-4-7-star-pw",
+      "name": "32 Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-surprise-dumpling-asmr-box-4-6-star-pw",
-      "name": "Surprise Dumpling: ASMR Box 休闲 4.6 star",
+      "id": "hot50-royal-kingdom-4-7-star-pw",
+      "name": "Royal Kingdom 益智 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
       "listType": "hot50"
     },
     {
-      "id": "hot50-surprise-dumpling-asmr-box-pw",
-      "name": "Surprise Dumpling: ASMR Box",
+      "id": "hot50-43-surprise-dumpling-asmr-box-4-8-star-pw",
+      "name": "43 Surprise Dumpling: ASMR Box 休闲 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-33-royal-kingdom-4-7-star-pw",
-      "name": "33 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-surprise-dumpling-asmr-box-4-8-star-pw",
+      "name": "Surprise Dumpling: ASMR Box 休闲 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-royal-kingdom-4-7-star-pw",
-      "name": "Royal Kingdom 益智 4.7 star",
+      "id": "hot50-surprise-dumpling-asmr-box-pw",
+      "name": "Surprise Dumpling: ASMR Box",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
@@ -234,8 +234,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-discounty-supermarket-manager-4-7-star-us--pw",
-      "name": "Discounty: Supermarket Manager 冒险 4.7 star US$12.99",
+      "id": "hot50-discounty-supermarket-manager-4-6-star-us--pw",
+      "name": "Discounty: Supermarket Manager 冒险 4.6 star US$12.99",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
