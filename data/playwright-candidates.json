@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:55:08.950Z",
+  "generatedAt": "2026-10-27T06:07:56.881Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-7-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "7 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-14-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "14 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,8 +146,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-24-warline-sniper-strike-4-9-star-pw",
-      "name": "24 Warline: Sniper Strike 4.9 star",
+      "id": "hot50-19-warline-sniper-strike-4-9-star-pw",
+      "name": "19 Warline: Sniper Strike 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
@@ -170,35 +170,19 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-32-royal-kingdom-4-7-star-pw",
-      "name": "32 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-26-surprise-dumpling-asmr-box-4-7-star-pw",
+      "name": "26 Surprise Dumpling: ASMR Box 休闲 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-royal-kingdom-4-7-star-pw",
-      "name": "Royal Kingdom 益智 4.7 star",
+      "id": "hot50-surprise-dumpling-asmr-box-4-7-star-pw",
+      "name": "Surprise Dumpling: ASMR Box 休闲 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-43-surprise-dumpling-asmr-box-4-8-star-pw",
-      "name": "43 Surprise Dumpling: ASMR Box 休闲 4.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-surprise-dumpling-asmr-box-4-8-star-pw",
-      "name": "Surprise Dumpling: ASMR Box 休闲 4.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -206,36 +190,52 @@
       "name": "Surprise Dumpling: ASMR Box",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-30-royal-kingdom-4-7-star-pw",
+      "name": "30 Royal Kingdom 益智 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-4-7-star-pw",
+      "name": "Royal Kingdom 益智 4.7 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
-      "name": "The Battle of Polytopia 4.4 star",
+      "id": "hot50-9-kings-4-5-star-pw",
+      "name": "9 Kings 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
+      "id": "hot50-9-kings-pw",
+      "name": "播放《9 Kings》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "The Battle of Polytopia",
+      "id": "hot50-9-kings-pw",
+      "name": "9 Kings",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-discounty-supermarket-manager-4-6-star-us--pw",
-      "name": "Discounty: Supermarket Manager 冒险 4.6 star US$12.99",
+      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
+      "name": "The Battle of Polytopia 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
