@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T06:56:40.610Z",
+  "generatedAt": "2026-10-31T06:50:54.260Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2906,6 +2906,66 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-greatest-estate-dev-squad-td-2026-10-31",
+      "name": "播放《Greatest Estate Dev: Squad TD》",
+      "alias": "播放《Greatest Estate Dev: Squad TD》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-10-31",
+      "heatScore": 29,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-dragon-siege-strategic-empire-2026-10-31",
+      "name": "播放《Dragon Siege: Strategic Empire》",
+      "alias": "播放《Dragon Siege: Strategic Empire》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "中世纪/奇幻战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-10-31",
+      "heatScore": 28,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -3080,7 +3140,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-10-30T06:56:40.610Z",
+      "generatedAt": "2026-10-31T06:50:54.260Z",
       "range": {
         "start": "2026-10-19",
         "end": "2026-10-25",
@@ -3096,7 +3156,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-10-30T06:56:40.610Z",
+      "generatedAt": "2026-10-31T06:50:54.260Z",
       "range": {
         "start": "2026-09-01",
         "end": "2026-09-30",
@@ -3150,7 +3210,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 10
+      "extracted": 11
     },
     {
       "source": "APKCombo strategy",
@@ -3161,7 +3221,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 2,
       "newLaunch": 0
     }
   ],
