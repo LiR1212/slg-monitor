@@ -1,12 +1,12 @@
 {
   "title": "月报",
-  "generatedAt": "2026-11-01T07:16:58.585Z",
+  "generatedAt": "2026-11-02T07:31:33.665Z",
   "range": {
-    "start": "2026-09-01",
-    "end": "2026-09-30",
-    "endExclusive": "2026-10-01"
+    "start": "2026-10-01",
+    "end": "2026-10-31",
+    "endExclusive": "2026-11-01"
   },
-  "triggerDate": "2026-10-05",
+  "triggerDate": "2026-11-02",
   "versionCount": 0,
   "activityCount": 0,
   "creativeCount": 0,
