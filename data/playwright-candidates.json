@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:31:33.594Z",
+  "generatedAt": "2026-11-03T07:45:51.572Z",
   "candidates": [
     {
       "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
@@ -50,8 +50,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-8-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "8 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-7-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "7 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
@@ -74,59 +74,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-35-royal-kingdom-4-8-star-pw",
-      "name": "35 Royal Kingdom 益智 4.8 star",
+      "id": "hot50-21-parking-loop-4-5-star-pw",
+      "name": "21 Parking Loop 益智 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 10,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-4-8-star-pw",
-      "name": "Royal Kingdom 益智 4.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-pw",
-      "name": "Royal Kingdom",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 12,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-36-warline-sniper-squad-4-9-star-pw",
-      "name": "36 Warline: Sniper Squad 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 13,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warline-sniper-squad-4-9-star-pw",
-      "name": "Warline: Sniper Squad 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 14,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warline-sniper-squad-pw",
-      "name": "Warline: Sniper Squad",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-42-parking-loop-4-5-star-pw",
-      "name": "42 Parking Loop 益智 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
       "listType": "hot50"
     },
     {
@@ -134,12 +86,60 @@
       "name": "Parking Loop 益智 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 11,
       "listType": "hot50"
     },
     {
       "id": "hot50-parking-loop-pw",
       "name": "Parking Loop",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 12,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-37-royal-kingdom-4-8-star-pw",
+      "name": "37 Royal Kingdom 益智 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 13,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-4-8-star-pw",
+      "name": "Royal Kingdom 益智 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 14,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-pw",
+      "name": "Royal Kingdom",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-40-warline-sniper-squad-4-9-star-pw",
+      "name": "40 Warline: Sniper Squad 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-squad-4-9-star-pw",
+      "name": "Warline: Sniper Squad 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-warline-sniper-squad-pw",
+      "name": "Warline: Sniper Squad",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 18,
