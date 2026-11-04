@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T07:45:51.632Z",
+  "generatedAt": "2026-11-04T07:23:54.562Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -2966,6 +2966,66 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-my-talking-tom-friends-2-2026-11-04",
+      "name": "播放《My Talking Tom Friends 2》",
+      "alias": "播放《My Talking Tom Friends 2》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "中世纪/奇幻战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-11-04",
+      "heatScore": 28,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-business-empire-richman-2026-11-04",
+      "name": "播放《Business Empire: RichMan》",
+      "alias": "播放《Business Empire: RichMan》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-11-04",
+      "heatScore": 26,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -3140,7 +3200,7 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-11-03T07:45:51.632Z",
+      "generatedAt": "2026-11-04T07:23:54.562Z",
       "range": {
         "start": "2026-10-26",
         "end": "2026-11-01",
@@ -3156,7 +3216,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-11-03T07:45:51.632Z",
+      "generatedAt": "2026-11-04T07:23:54.562Z",
       "range": {
         "start": "2026-10-01",
         "end": "2026-10-31",
@@ -3210,7 +3270,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 7
+      "extracted": 12
     },
     {
       "source": "APKCombo strategy",
@@ -3221,7 +3281,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 2,
       "newLaunch": 0
     }
   ],
