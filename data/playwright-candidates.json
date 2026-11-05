@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:23:54.485Z",
+  "generatedAt": "2026-11-05T07:49:50.132Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-7-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "7 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-8-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "8 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,16 +146,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-15-parking-loop-4-5-star-pw",
-      "name": "15 Parking Loop 益智 4.5 star",
+      "id": "hot50-13-parking-loop-4-4-star-pw",
+      "name": "13 Parking Loop 益智 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-parking-loop-4-5-star-pw",
-      "name": "Parking Loop 益智 4.5 star",
+      "id": "hot50-parking-loop-4-4-star-pw",
+      "name": "Parking Loop 益智 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-33-royal-kingdom-4-8-star-pw",
-      "name": "33 Royal Kingdom 益智 4.8 star",
+      "id": "hot50-34-royal-kingdom-4-8-star-pw",
+      "name": "34 Royal Kingdom 益智 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
