@@ -1,68 +1,92 @@
 {
-  "generatedAt": "2026-11-07T06:57:56.107Z",
+  "generatedAt": "2026-11-08T07:05:35.937Z",
   "candidates": [
     {
-      "id": "hot50-adventure-ages-4-2-star-pw",
-      "name": "AdVenture Ages 4.2 star",
+      "id": "hot50-merge-dragons-4-4-star-pw",
+      "name": "萌龙进化论 (Merge Dragons!) 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 1,
       "listType": "hot50"
     },
     {
-      "id": "hot50-adventure-ages-pw",
-      "name": "图标图片“AdVenture Ages”",
+      "id": "hot50-merge-dragons-pw",
+      "name": "图标图片“萌龙进化论 (Merge Dragons!)”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 2,
       "listType": "hot50"
     },
     {
-      "id": "hot50-adventure-ages-pw",
-      "name": "AdVenture Ages",
+      "id": "hot50-merge-dragons-pw",
+      "name": "萌龙进化论 (Merge Dragons!)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 3,
       "listType": "hot50"
     },
     {
-      "id": "hot50-age-of-war-2-4-3-star-pw",
-      "name": "Age of War 2 4.3 star",
+      "id": "hot50-star-wars-kotor-3-7-star-us-9-99-pw",
+      "name": "Star Wars™: KOTOR 3.7 star US$9.99",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 4,
       "listType": "hot50"
     },
     {
-      "id": "hot50-age-of-war-2-pw",
-      "name": "图标图片“Age of War 2”",
+      "id": "hot50-star-wars-kotor-pw",
+      "name": "图标图片“Star Wars™: KOTOR”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 5,
       "listType": "hot50"
     },
     {
-      "id": "hot50-age-of-war-2-pw",
-      "name": "Age of War 2",
+      "id": "hot50-star-wars-kotor-pw",
+      "name": "Star Wars™: KOTOR",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 6,
       "listType": "hot50"
     },
     {
-      "id": "hot50-7-royal-kingdom-4-7-star-pw",
-      "name": "7 Royal Kingdom 益智 4.7 star",
+      "id": "hot50-star-wars-kotor-ii-4-3-star-us-14-99-pw",
+      "name": "STAR WARS™: KOTOR II 4.3 star US$14.99",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 7,
       "listType": "hot50"
     },
     {
-      "id": "hot50-royal-kingdom-4-7-star-pw",
-      "name": "Royal Kingdom 益智 4.7 star",
+      "id": "hot50-star-wars-kotor-ii-pw",
+      "name": "图标图片“STAR WARS™: KOTOR II”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 8,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-star-wars-kotor-ii-pw",
+      "name": "STAR WARS™: KOTOR II",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 9,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-4-8-star-pw",
+      "name": "Royal Kingdom 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 10,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-pw",
+      "name": "图标图片“Royal Kingdom”",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 11,
       "listType": "hot50"
     },
     {
@@ -70,47 +94,47 @@
       "name": "Royal Kingdom",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 9,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-11-parking-loop-4-4-star-pw",
-      "name": "11 Parking Loop 益智 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 10,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-parking-loop-4-4-star-pw",
-      "name": "Parking Loop 益智 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 11,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-parking-loop-pw",
-      "name": "Parking Loop",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 12,
       "listType": "hot50"
     },
     {
-      "id": "hot50-13-tank-busters-cannon-battle-4-2-star-pw",
-      "name": "13 Tank Busters: Cannon Battle 动作 4.2 star",
+      "id": "hot50-clash-royale-4-4-star-pw",
+      "name": "Clash Royale 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 13,
       "listType": "hot50"
     },
     {
-      "id": "hot50-tank-busters-cannon-battle-4-2-star-pw",
-      "name": "Tank Busters: Cannon Battle 动作 4.2 star",
+      "id": "hot50-clash-royale-pw",
+      "name": "图标图片“Clash Royale”",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 14,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-clash-royale-pw",
+      "name": "Clash Royale",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 15,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-6-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "6 Tank Busters: Cannon Battle 动作 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 16,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "Tank Busters: Cannon Battle 动作 4.4 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 17,
       "listType": "hot50"
     },
     {
@@ -118,15 +142,55 @@
       "name": "Tank Busters: Cannon Battle",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 15,
+      "rank": 18,
       "listType": "hot50"
     },
     {
-      "id": "hot50-27-warline-sniper-squad-4-9-star-pw",
-      "name": "27 Warline: Sniper Squad 4.9 star",
+      "id": "hot50-19-parking-loop-4-5-star-pw",
+      "name": "19 Parking Loop 益智 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 16,
+      "rank": 19,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-parking-loop-4-5-star-pw",
+      "name": "Parking Loop 益智 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 20,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-parking-loop-pw",
+      "name": "Parking Loop",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-34-royal-kingdom-4-8-star-pw",
+      "name": "34 Royal Kingdom 益智 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-4-8-star-pw",
+      "name": "Royal Kingdom 益智 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-36-warline-sniper-squad-4-9-star-pw",
+      "name": "36 Warline: Sniper Squad 4.9 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -134,7 +198,7 @@
       "name": "Warline: Sniper Squad 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 17,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -142,100 +206,36 @@
       "name": "Warline: Sniper Squad",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 18,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-35-lordrush-4-4-star-pw",
-      "name": "35 Lordrush 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lordrush-4-4-star-pw",
-      "name": "Lordrush 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-lordrush-pw",
-      "name": "Lordrush",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-43-whisper-castle-merge-story-4-8-star-pw",
-      "name": "43 Whisper Castle: Merge & Story 益智 4.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-whisper-castle-merge-story-4-8-star-pw",
-      "name": "Whisper Castle: Merge & Story 益智 4.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-whisper-castle-merge-story-pw",
-      "name": "Whisper Castle: Merge & Story",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-the-battle-of-polytopia-4-3-star-pw",
-      "name": "The Battle of Polytopia 4.3 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "The Battle of Polytopia",
+      "id": "hot50-44-snake-clash-4-5-star-pw",
+      "name": "44 蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-survivalautobattler-pw",
-      "name": "Don't Die: SurvivalAutoBattler 休闲",
+      "id": "hot50-snake-clash-4-5-star-pw",
+      "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-survivalautobattler-pw",
-      "name": "播放《Don't Die: SurvivalAutoBattler》",
+      "id": "hot50-snake-clash-pw",
+      "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-survivalautobattler-pw",
-      "name": "Don't Die: SurvivalAutoBattler",
+      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
+      "name": "The Battle of Polytopia 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
