@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:05:35.937Z",
+  "generatedAt": "2026-11-09T07:49:14.928Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-6-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "6 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-5-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "5 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,16 +146,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-19-parking-loop-4-5-star-pw",
-      "name": "19 Parking Loop 益智 4.5 star",
+      "id": "hot50-21-parking-loop-4-6-star-pw",
+      "name": "21 Parking Loop 益智 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-parking-loop-4-5-star-pw",
-      "name": "Parking Loop 益智 4.5 star",
+      "id": "hot50-parking-loop-4-6-star-pw",
+      "name": "Parking Loop 益智 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -170,27 +170,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-34-royal-kingdom-4-8-star-pw",
-      "name": "34 Royal Kingdom 益智 4.8 star",
+      "id": "hot50-35-warline-sniper-squad-4-9-star-pw",
+      "name": "35 Warline: Sniper Squad 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-royal-kingdom-4-8-star-pw",
-      "name": "Royal Kingdom 益智 4.8 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-36-warline-sniper-squad-4-9-star-pw",
-      "name": "36 Warline: Sniper Squad 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -198,7 +182,7 @@
       "name": "Warline: Sniper Squad 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -206,15 +190,15 @@
       "name": "Warline: Sniper Squad",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 24,
       "listType": "hot50"
     },
     {
-      "id": "hot50-44-snake-clash-4-5-star-pw",
-      "name": "44 蛇冲突 (Snake Clash) 街机 4.5 star",
+      "id": "hot50-38-snake-clash-4-5-star-pw",
+      "name": "38 蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -222,7 +206,7 @@
       "name": "蛇冲突 (Snake Clash) 街机 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
+      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -230,12 +214,28 @@
       "name": "蛇冲突 (Snake Clash)",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 27,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-40-royal-kingdom-4-8-star-pw",
+      "name": "40 Royal Kingdom 益智 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 28,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-royal-kingdom-4-8-star-pw",
+      "name": "Royal Kingdom 益智 4.8 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
-      "name": "The Battle of Polytopia 4.4 star",
+      "id": "hot50-43-surprise-dumpling-asmr-box-4-7-star-pw",
+      "name": "43 Surprise Dumpling: ASMR Box 休闲 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
