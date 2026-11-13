@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:08:01.501Z",
+  "generatedAt": "2026-11-13T07:43:57.367Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-8-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "8 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-10-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "10 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,16 +146,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-23-parking-loop-4-7-star-pw",
-      "name": "23 Parking Loop 益智 4.7 star",
+      "id": "hot50-21-parking-loop-4-5-star-pw",
+      "name": "21 Parking Loop 益智 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-parking-loop-4-7-star-pw",
-      "name": "Parking Loop 益智 4.7 star",
+      "id": "hot50-parking-loop-4-5-star-pw",
+      "name": "Parking Loop 益智 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-32-warline-sniper-squad-4-9-star-pw",
-      "name": "32 Warline: Sniper Squad 4.9 star",
+      "id": "hot50-30-warline-sniper-squad-4-9-star-pw",
+      "name": "30 Warline: Sniper Squad 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
@@ -194,48 +194,48 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
-      "name": "The Battle of Polytopia 4.4 star",
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "播放《Don't Die: SurvivalAutoBattler》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "The Battle of Polytopia",
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-discounty-supermarket-manager-4-6-star-us--pw",
-      "name": "Discounty: Supermarket Manager 冒险 4.6 star US$12.99",
+      "id": "hot50-cottage-haven-merge-restore-pw",
+      "name": "Cottage Haven: Merge & Restore 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-discounty-supermarket-manager-pw",
-      "name": "播放《Discounty: Supermarket Manager》",
+      "id": "hot50-cottage-haven-merge-restore-pw",
+      "name": "Cottage Haven: Merge & Restore",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-discounty-supermarket-manager-pw",
-      "name": "Discounty: Supermarket Manager",
+      "id": "hot50-cooking-joy-4-8-star-pw",
+      "name": "Cooking Joy 模拟 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
