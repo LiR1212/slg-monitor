@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:43:57.367Z",
+  "generatedAt": "2026-11-14T07:29:48.752Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-10-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "10 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-12-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "12 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,16 +146,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-21-parking-loop-4-5-star-pw",
-      "name": "21 Parking Loop 益智 4.5 star",
+      "id": "hot50-26-parking-loop-4-6-star-pw",
+      "name": "26 Parking Loop 益智 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-parking-loop-4-5-star-pw",
-      "name": "Parking Loop 益智 4.5 star",
+      "id": "hot50-parking-loop-4-6-star-pw",
+      "name": "Parking Loop 益智 4.6 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-30-warline-sniper-squad-4-9-star-pw",
-      "name": "30 Warline: Sniper Squad 4.9 star",
+      "id": "hot50-33-warline-sniper-squad-4-9-star-pw",
+      "name": "33 Warline: Sniper Squad 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
@@ -234,8 +234,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-cooking-joy-4-8-star-pw",
-      "name": "Cooking Joy 模拟 4.8 star",
+      "id": "hot50-cooking-joy-4-7-star-pw",
+      "name": "Cooking Joy 模拟 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
