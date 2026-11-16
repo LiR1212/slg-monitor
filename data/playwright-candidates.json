@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T07:42:53.646Z",
+  "generatedAt": "2026-11-16T07:49:08.144Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "9 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-12-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "12 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,16 +146,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-29-parking-loop-4-5-star-pw",
-      "name": "29 Parking Loop 益智 4.5 star",
+      "id": "hot50-31-parking-loop-4-4-star-pw",
+      "name": "31 Parking Loop 益智 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-parking-loop-4-5-star-pw",
-      "name": "Parking Loop 益智 4.5 star",
+      "id": "hot50-parking-loop-4-4-star-pw",
+      "name": "Parking Loop 益智 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -170,16 +170,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-32-transformers-eternal-war-4-5-star-pw",
-      "name": "32 Transformers: Eternal War 角色扮演 4.5 star",
+      "id": "hot50-33-transformers-eternal-war-4-7-star-pw",
+      "name": "33 Transformers: Eternal War 角色扮演 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-transformers-eternal-war-4-5-star-pw",
-      "name": "Transformers: Eternal War 角色扮演 4.5 star",
+      "id": "hot50-transformers-eternal-war-4-7-star-pw",
+      "name": "Transformers: Eternal War 角色扮演 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
@@ -194,8 +194,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-37-warline-sniper-squad-4-9-star-pw",
-      "name": "37 Warline: Sniper Squad 4.9 star",
+      "id": "hot50-39-warline-sniper-squad-4-9-star-pw",
+      "name": "39 Warline: Sniper Squad 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
