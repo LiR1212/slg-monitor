@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T07:49:08.144Z",
+  "generatedAt": "2026-11-17T08:57:42.621Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-12-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "12 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-16-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "16 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,8 +146,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-31-parking-loop-4-4-star-pw",
-      "name": "31 Parking Loop 益智 4.4 star",
+      "id": "hot50-34-parking-loop-4-4-star-pw",
+      "name": "34 Parking Loop 益智 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-33-transformers-eternal-war-4-7-star-pw",
-      "name": "33 Transformers: Eternal War 角色扮演 4.7 star",
+      "id": "hot50-35-transformers-eternal-war-4-7-star-pw",
+      "name": "35 Transformers: Eternal War 角色扮演 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
@@ -194,8 +194,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-39-warline-sniper-squad-4-9-star-pw",
-      "name": "39 Warline: Sniper Squad 4.9 star",
+      "id": "hot50-37-warline-sniper-squad-4-9-star-pw",
+      "name": "37 Warline: Sniper Squad 4.9 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 25,
@@ -274,8 +274,8 @@
       "listType": "newLaunch"
     },
     {
-      "id": "newLaunch-items-per-page-50-1-19-of-19-pw",
-      "name": "Items per page: 50 1 – 19 of 19",
+      "id": "newLaunch-items-per-page-50-1-23-of-23-pw",
+      "name": "Items per page: 50 1 – 23 of 23",
       "source": "APKCombo strategy playwright",
       "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
       "rank": 5,
