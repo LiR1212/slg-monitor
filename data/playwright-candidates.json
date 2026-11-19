@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:23:14.217Z",
+  "generatedAt": "2026-11-19T08:34:23.170Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-20-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "20 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-19-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "19 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,8 +146,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-35-parking-loop-4-4-star-pw",
-      "name": "35 Parking Loop 益智 4.4 star",
+      "id": "hot50-34-parking-loop-4-4-star-pw",
+      "name": "34 Parking Loop 益智 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
@@ -170,43 +170,19 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-37-transformers-eternal-war-4-7-star-pw",
-      "name": "37 Transformers: Eternal War 角色扮演 4.7 star",
+      "id": "hot50-45-warline-sniper-squad-4-8-star-pw",
+      "name": "45 Warline: Sniper Squad 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
       "listType": "hot50"
     },
     {
-      "id": "hot50-transformers-eternal-war-4-7-star-pw",
-      "name": "Transformers: Eternal War 角色扮演 4.7 star",
+      "id": "hot50-warline-sniper-squad-4-8-star-pw",
+      "name": "Warline: Sniper Squad 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 23,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-transformers-eternal-war-pw",
-      "name": "Transformers: Eternal War",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-41-warline-sniper-squad-4-9-star-pw",
-      "name": "41 Warline: Sniper Squad 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-warline-sniper-squad-4-9-star-pw",
-      "name": "Warline: Sniper Squad 4.9 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -214,28 +190,52 @@
       "name": "Warline: Sniper Squad",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 24,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler 休闲",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 25,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "播放《Don't Die: SurvivalAutoBattler》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 26,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-don-t-die-survivalautobattler-pw",
+      "name": "Don't Die: SurvivalAutoBattler",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-kings-4-7-star-pw",
-      "name": "9 Kings 4.7 star",
+      "id": "hot50-cottage-haven-merge-restore-pw",
+      "name": "Cottage Haven: Merge & Restore 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-kings-pw",
-      "name": "播放《9 Kings》",
+      "id": "hot50-cottage-haven-merge-restore-pw",
+      "name": "Cottage Haven: Merge & Restore",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-kings-pw",
-      "name": "9 Kings",
+      "id": "hot50-cooking-joy-4-8-star-pw",
+      "name": "Cooking Joy 模拟 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
