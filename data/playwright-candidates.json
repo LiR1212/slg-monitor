@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:17:56.652Z",
+  "generatedAt": "2026-11-21T08:09:41.403Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-17-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "17 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-20-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "20 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,16 +146,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-32-parking-loop-4-4-star-pw",
-      "name": "32 Parking Loop 益智 4.4 star",
+      "id": "hot50-37-parking-loop-4-5-star-pw",
+      "name": "37 Parking Loop 益智 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-parking-loop-4-4-star-pw",
-      "name": "Parking Loop 益智 4.4 star",
+      "id": "hot50-parking-loop-4-5-star-pw",
+      "name": "Parking Loop 益智 4.5 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-44-warline-sniper-squad-4-8-star-pw",
-      "name": "44 Warline: Sniper Squad 4.8 star",
+      "id": "hot50-41-warline-sniper-squad-4-8-star-pw",
+      "name": "41 Warline: Sniper Squad 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
@@ -218,24 +218,24 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-cottage-haven-merge-restore-pw",
-      "name": "Cottage Haven: Merge & Restore 休闲",
+      "id": "hot50-cooking-joy-4-7-star-pw",
+      "name": "Cooking Joy 模拟 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-cottage-haven-merge-restore-pw",
-      "name": "Cottage Haven: Merge & Restore",
+      "id": "hot50-cooking-joy-pw",
+      "name": "Cooking Joy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 29,
       "listType": "hot50"
     },
     {
-      "id": "hot50-cooking-joy-4-7-star-pw",
-      "name": "Cooking Joy 模拟 4.7 star",
+      "id": "hot50-cottage-haven-merge-restore-pw",
+      "name": "Cottage Haven: Merge & Restore 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
