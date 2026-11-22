@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:09:41.403Z",
+  "generatedAt": "2026-11-22T07:54:12.335Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-20-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "20 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-26-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "26 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,35 +146,11 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-37-parking-loop-4-5-star-pw",
-      "name": "37 Parking Loop 益智 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 19,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-parking-loop-4-5-star-pw",
-      "name": "Parking Loop 益智 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 20,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-parking-loop-pw",
-      "name": "Parking Loop",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 21,
-      "listType": "hot50"
-    },
-    {
       "id": "hot50-41-warline-sniper-squad-4-8-star-pw",
       "name": "41 Warline: Sniper Squad 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 19,
       "listType": "hot50"
     },
     {
@@ -182,12 +158,36 @@
       "name": "Warline: Sniper Squad 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 20,
       "listType": "hot50"
     },
     {
       "id": "hot50-warline-sniper-squad-pw",
       "name": "Warline: Sniper Squad",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-45-parking-loop-4-5-star-pw",
+      "name": "45 Parking Loop 益智 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-parking-loop-4-5-star-pw",
+      "name": "Parking Loop 益智 4.5 star",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-parking-loop-pw",
+      "name": "Parking Loop",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 24,
@@ -240,6 +240,22 @@
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
       "listType": "hot50"
+    },
+    {
+      "id": "newLaunch-snake-clash-0-pw",
+      "name": "Snake Clash! 下载次数 0",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 1,
+      "listType": "newLaunch"
+    },
+    {
+      "id": "newLaunch-snake-clash-pw",
+      "name": "Snake Clash!",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 2,
+      "listType": "newLaunch"
     }
   ],
   "logs": [
@@ -251,7 +267,7 @@
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 0
+      "extracted": 2
     }
   ]
 }
