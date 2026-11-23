@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T07:54:12.415Z",
+  "generatedAt": "2026-11-23T08:49:00.131Z",
   "timezone": "Asia/Shanghai",
   "latestDate": "2026-07-01",
   "games": [
@@ -3146,6 +3146,66 @@
       "status": "远程热度候选，待人工确认",
       "listType": "hot50",
       "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-transformers-eternal-war-2026-11-23",
+      "name": "播放《Transformers: Eternal War》",
+      "alias": "播放《Transformers: Eternal War》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-11-23",
+      "heatScore": 30,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
+    },
+    {
+      "id": "hot-warhammer-survivors-2026-11-23",
+      "name": "播放《Warhammer Survivors》",
+      "alias": "播放《Warhammer Survivors》",
+      "publisher": "Google Play games",
+      "developer": "待采集",
+      "theme": "策略战争",
+      "gameplay": [
+        "SLG候选",
+        "联盟战",
+        "4X",
+        "城建"
+      ],
+      "iosAppId": "待采集",
+      "androidPackage": "待采集",
+      "officialSite": "https://play.google.com/store/games?device=phone",
+      "appStoreUrl": "",
+      "googlePlayUrl": "https://play.google.com/store/games?device=phone",
+      "socials": [],
+      "mainMarkets": [
+        "全球"
+      ],
+      "currentVersion": "待采集",
+      "lastUpdated": "2026-11-23",
+      "heatScore": 29,
+      "confidence": "低",
+      "status": "远程热度候选，待人工确认",
+      "listType": "hot50",
+      "sourceHint": "Google Play games 自动候选；规则过滤为疑似 SLG，需人工复核"
     }
   ],
   "events": [
@@ -3320,13 +3380,13 @@
   "reports": {
     "weekly": {
       "title": "周报",
-      "generatedAt": "2026-11-22T07:54:12.415Z",
+      "generatedAt": "2026-11-23T08:49:00.131Z",
       "range": {
-        "start": "2026-11-09",
-        "end": "2026-11-15",
-        "endExclusive": "2026-11-16"
+        "start": "2026-11-16",
+        "end": "2026-11-22",
+        "endExclusive": "2026-11-23"
       },
-      "triggerDate": "2026-11-16",
+      "triggerDate": "2026-11-23",
       "versionCount": 0,
       "activityCount": 0,
       "creativeCount": 0,
@@ -3336,7 +3396,7 @@
     },
     "monthly": {
       "title": "月报",
-      "generatedAt": "2026-11-22T07:54:12.415Z",
+      "generatedAt": "2026-11-23T08:49:00.131Z",
       "range": {
         "start": "2026-10-01",
         "end": "2026-10-31",
@@ -3390,7 +3450,7 @@
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 7
+      "extracted": 12
     },
     {
       "source": "APKCombo strategy",
@@ -3401,7 +3461,7 @@
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 0,
+      "hot": 2,
       "newLaunch": 0
     }
   ],
