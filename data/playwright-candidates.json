@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:47:09.537Z",
+  "generatedAt": "2026-11-25T09:42:51.520Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-24-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "24 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-25-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "25 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-cooking-joy-4-7-star-pw",
-      "name": "Cooking Joy 模拟 4.7 star",
+      "id": "hot50-cooking-joy-4-8-star-pw",
+      "name": "Cooking Joy 模拟 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
@@ -242,8 +242,8 @@
       "listType": "hot50"
     },
     {
-      "id": "newLaunch-onestate-rp-role-play-life-2-pw",
-      "name": "OneState RP - Role Play Life 下载次数 2",
+      "id": "newLaunch-onestate-rp-role-play-life-6-pw",
+      "name": "OneState RP - Role Play Life 下载次数 6",
       "source": "APKCombo strategy playwright",
       "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
       "rank": 1,
@@ -258,8 +258,8 @@
       "listType": "newLaunch"
     },
     {
-      "id": "newLaunch-war-robots-multiplayer-battles-2-pw",
-      "name": "War Robots Multiplayer Battles 下载次数 2",
+      "id": "newLaunch-war-robots-multiplayer-battles-4-pw",
+      "name": "War Robots Multiplayer Battles 下载次数 4",
       "source": "APKCombo strategy playwright",
       "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
       "rank": 3,
@@ -272,14 +272,6 @@
       "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
       "rank": 4,
       "listType": "newLaunch"
-    },
-    {
-      "id": "newLaunch-onestate-rp-role-play-life-chillbase-pw",
-      "name": "OneState RP - Role Play Life ChillBase · 角色扮演",
-      "source": "APKCombo strategy playwright",
-      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
-      "rank": 5,
-      "listType": "newLaunch"
     }
   ],
   "logs": [
@@ -291,7 +283,7 @@
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 5
+      "extracted": 4
     }
   ]
 }
