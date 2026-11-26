@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:42:51.520Z",
+  "generatedAt": "2026-11-26T09:19:14.501Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-25-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "25 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-24-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "24 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -170,8 +170,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-cooking-joy-4-8-star-pw",
-      "name": "Cooking Joy 模拟 4.8 star",
+      "id": "hot50-cooking-joy-4-7-star-pw",
+      "name": "Cooking Joy 模拟 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 22,
@@ -202,48 +202,32 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-kings-4-6-star-pw",
-      "name": "9 Kings 4.6 star",
+      "id": "hot50-clash-royale-pw",
+      "name": "播放《Clash Royale》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 26,
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-kings-pw",
-      "name": "播放《9 Kings》",
+      "id": "hot50-dark-war-survival-4-4-star-pw",
+      "name": "Dark War Survival 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 27,
       "listType": "hot50"
     },
     {
-      "id": "hot50-9-kings-pw",
-      "name": "9 Kings",
+      "id": "hot50-dark-war-survival-pw",
+      "name": "Dark War Survival",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 28,
       "listType": "hot50"
     },
     {
-      "id": "hot50-the-battle-of-polytopia-4-4-star-pw",
-      "name": "The Battle of Polytopia 4.4 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-the-battle-of-polytopia-pw",
-      "name": "播放《The Battle of Polytopia》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 30,
-      "listType": "hot50"
-    },
-    {
-      "id": "newLaunch-onestate-rp-role-play-life-6-pw",
-      "name": "OneState RP - Role Play Life 下载次数 6",
+      "id": "newLaunch-onestate-rp-role-play-life-12-pw",
+      "name": "OneState RP - Role Play Life 下载次数 12",
       "source": "APKCombo strategy playwright",
       "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
       "rank": 1,
@@ -258,8 +242,8 @@
       "listType": "newLaunch"
     },
     {
-      "id": "newLaunch-war-robots-multiplayer-battles-4-pw",
-      "name": "War Robots Multiplayer Battles 下载次数 4",
+      "id": "newLaunch-war-robots-multiplayer-battles-6-pw",
+      "name": "War Robots Multiplayer Battles 下载次数 6",
       "source": "APKCombo strategy playwright",
       "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
       "rank": 3,
@@ -278,7 +262,7 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 30
+      "extracted": 28
     },
     {
       "source": "APKCombo strategy playwright",
