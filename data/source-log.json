@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:19:14.561Z",
+  "generatedAt": "2026-11-27T09:33:47.343Z",
   "entries": [
     {
       "source": "AppMagic",
@@ -28,29 +28,29 @@
     {
       "source": "Google Play games playwright",
       "ok": true,
-      "extracted": 28
+      "extracted": 30
     },
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 4
+      "extracted": 0
     },
     {
       "source": "Google Play games",
       "url": "https://play.google.com/store/games?device=phone",
       "ok": true,
-      "extracted": 7
+      "extracted": 9
     },
     {
       "source": "APKCombo strategy",
       "url": "https://apkcombo.com/zh/game/strategy/",
       "ok": false,
-      "message": "HTTP 404"
+      "message": "HTTP 403"
     },
     {
       "source": "remote-summary",
       "ok": true,
-      "hot": 1,
+      "hot": 0,
       "newLaunch": 0
     }
   ]
