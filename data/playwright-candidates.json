@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:33:47.292Z",
+  "generatedAt": "2026-11-28T08:47:29.364Z",
   "candidates": [
     {
       "id": "hot50-merge-dragons-4-4-star-pw",
@@ -122,8 +122,8 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-26-tank-busters-cannon-battle-4-4-star-pw",
-      "name": "26 Tank Busters: Cannon Battle 动作 4.4 star",
+      "id": "hot50-25-tank-busters-cannon-battle-4-4-star-pw",
+      "name": "25 Tank Busters: Cannon Battle 动作 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 16,
@@ -146,16 +146,16 @@
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-auto-battler-rpg-pw",
-      "name": "Don't Die: Auto Battler RPG 角色扮演",
+      "id": "hot50-cooking-master-merge-roll-4-7-star-pw",
+      "name": "Cooking Master®: Merge & Roll 休闲 4.7 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 19,
       "listType": "hot50"
     },
     {
-      "id": "hot50-don-t-die-auto-battler-rpg-pw",
-      "name": "播放《Don't Die: Auto Battler RPG》",
+      "id": "hot50-cooking-master-merge-roll-pw",
+      "name": "Cooking Master®: Merge & Roll",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 20,
@@ -163,10 +163,26 @@
     },
     {
       "id": "hot50-don-t-die-auto-battler-rpg-pw",
-      "name": "Don't Die: Auto Battler RPG",
+      "name": "Don't Die: Auto Battler RPG 角色扮演",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 21,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-don-t-die-auto-battler-rpg-pw",
+      "name": "播放《Don't Die: Auto Battler RPG》",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 22,
+      "listType": "hot50"
+    },
+    {
+      "id": "hot50-don-t-die-auto-battler-rpg-pw",
+      "name": "Don't Die: Auto Battler RPG",
+      "source": "Google Play games playwright",
+      "sourceUrl": "https://play.google.com/store/games?device=phone",
+      "rank": 23,
       "listType": "hot50"
     },
     {
@@ -174,7 +190,7 @@
       "name": "Cooking Joy 模拟 4.8 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 22,
+      "rank": 24,
       "listType": "hot50"
     },
     {
@@ -182,7 +198,7 @@
       "name": "Cooking Joy",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 23,
+      "rank": 25,
       "listType": "hot50"
     },
     {
@@ -190,7 +206,7 @@
       "name": "Cottage Haven: Merge & Restore 休闲",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 24,
+      "rank": 26,
       "listType": "hot50"
     },
     {
@@ -198,7 +214,7 @@
       "name": "Cottage Haven: Merge & Restore",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 25,
+      "rank": 27,
       "listType": "hot50"
     },
     {
@@ -206,7 +222,7 @@
       "name": "播放《Clash Royale》",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 26,
+      "rank": 28,
       "listType": "hot50"
     },
     {
@@ -214,7 +230,7 @@
       "name": "Dark War Survival 4.4 star",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 27,
+      "rank": 29,
       "listType": "hot50"
     },
     {
@@ -222,24 +238,32 @@
       "name": "Dark War Survival",
       "source": "Google Play games playwright",
       "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 28,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-9-kings-4-5-star-pw",
-      "name": "9 Kings 4.5 star",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
-      "rank": 29,
-      "listType": "hot50"
-    },
-    {
-      "id": "hot50-9-kings-pw",
-      "name": "播放《9 Kings》",
-      "source": "Google Play games playwright",
-      "sourceUrl": "https://play.google.com/store/games?device=phone",
       "rank": 30,
       "listType": "hot50"
+    },
+    {
+      "id": "newLaunch-onestate-rp-role-play-life-26-pw",
+      "name": "OneState RP - Role Play Life 下载次数 26",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 1,
+      "listType": "newLaunch"
+    },
+    {
+      "id": "newLaunch-onestate-rp-role-play-life-pw",
+      "name": "OneState RP - Role Play Life",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 2,
+      "listType": "newLaunch"
+    },
+    {
+      "id": "newLaunch-onestate-rp-role-play-life-chillbase-pw",
+      "name": "OneState RP - Role Play Life ChillBase · 角色扮演",
+      "source": "APKCombo strategy playwright",
+      "sourceUrl": "https://apkcombo.com/zh/game/strategy/",
+      "rank": 3,
+      "listType": "newLaunch"
     }
   ],
   "logs": [
@@ -251,7 +275,7 @@
     {
       "source": "APKCombo strategy playwright",
       "ok": true,
-      "extracted": 0
+      "extracted": 3
     }
   ]
 }
